@@ -46,30 +46,30 @@ li a:hover:not(.active) {
     margin-right: 20px;
 }
 
-#quotescointainer{
+#cointainer{
     width: 100%;
     font-size: 12px;
     overflow: hidden; /* contain floated elements */
     background: #ccc
 }
-#quotesleft {
+#left {
     float: left; 
     width: 22%;
     background-color: #bbb;
-    height: 1000px;
+    height: 900px;
     margin-right: 20px;
 }
-#quotescenter { 
+#center { 
     float: left;
     background-color: #eee;
     width: 50%;
-    height: 1000px;
+    height: 900px;
     font-size: 20px;
 }
-#quotesright{
+#right{
     float: left;
     width: 22%;
     background-color: #bbb;
-    height: 1000px;
+    height: 900px;
     margin-left: 20px;
 }

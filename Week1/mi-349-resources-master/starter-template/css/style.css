@@ -96,52 +96,31 @@ body div ul {
 #meta {
 	margin-top: 30px;
 }
-#left{
-    background-color: beige; 
-    width: 500px; 
-    height: 1000px;
-    float: left;
-    margin-right: 10px
-}
-
-#bio{
-    width: 900px;
-    float: inherit;
-    display: inline-block;
-}
-
-#right{
-    background-color: beige; 
-    width: 500px; 
-    height: 1000px;
-    float: right;
-    margin-right: 20px
-}
 #resume{
     float:left;
     width: 865px;
 }
 
-#quotescointainer{
+#cointainer{
     width: 100%;
     font-size: 12px;
     overflow: hidden; /* contain floated elements */
 }
-#quotesleft {
+#left {
     float: left; 
     width: 22%;
     background-color: #bbb;
     height: 1000px;
     margin-right: 20px;
 }
-#quotescenter { 
+#center { 
     float: left;
     background-color: #eee;
     width: 50%;
     height: 1000px;
     font-size: 20px;
 }
-#quotesright{
+#right{
     float: left;
     width: 22%;
     background-color: #bbb;
