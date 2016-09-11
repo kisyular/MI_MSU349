@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Graphic Design</title>
+
+<style type="text/css">
+body {
+	background: #222;
+	color: #eee;
+	margin-top: 20px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+a {
+	color: #FFF;
+}
+a:hover {
+	color: yellow;
+	text-decoration: underline;
+}
+.thumbnails img {
+	height: 80px;
+	border: 4px solid #555;
+	padding: 1px;
+	margin: 0 10px 10px 0;
+}
+
+.thumbnails img:hover {
+	border: 4px solid #00ccff;
+	cursor:pointer;
+}
+
+.preview img {
+	border: 4px solid #444;
+	padding: 1px;
+	width: 1000px;
+}
+    
+#quotescointainer{
+    width: 100%;
+    font-size: 12px;
+    overflow: hidden; /* contain floated elements */
+}
+#quotesleft {
+    float: left; 
+    width: 8%;
+    background-color: #bbb;
+    height: 1500px;
+    margin-right: 10px;
+}
+#quotescenter { 
+    float: left;
+    background-color: #eee;
+    width: 70%;
+    height: 1500px;
+    font-size: 20px;
+}
+#quotesright{
+    float: left;
+    width: 8%;
+    background-color: #bbb;
+    height: 1500px;
+    margin-left: 10px;
+}
+</style>
+
+</head>
+<body>
+<div id="quotescointainer">
+            <div id="quotesleft"></div>
+            <div id="quotescenter">
+            <div class="gallery" align="center">
+	<br />
+	<div class="thumbnails">
+		<img onmouseover="preview.src=img1.src" name="img1" src="images/img1.png" alt=""/>
+		<img onmouseover="preview.src=img2.src" name="img2" src="images/img2.png" alt=""/>
+		<img onmouseover="preview.src=img3.src" name="img3" src="images/img3.png" alt=""/>
+		<img onmouseover="preview.src=img5.src" name="img5" src="images/img5.jpg" alt=""/>
+        <img onmouseover="preview.src=img6.src" name="img6" src="images/img6.jpg" alt=""/>
+        <img onmouseover="preview.src=img7.src" name="img7" src="images/img7.jpg" alt=""/>
+        <img onmouseover="preview.src=img8.src" name="img8" src="images/img8.jpg" alt=""/>
+        <img onmouseover="preview.src=img9.src" name="img9" src="images/img9.jpg" alt=""/>
+        <img onmouseover="preview.src=img10.src" name="img10" src="images/img10.jpg" alt=""/>
+        <img onmouseover="preview.src=img11.src" name="img11" src="images/img11.jpg" alt=""/>
+        <img onmouseover="preview.src=img12.src" name="img12" src="images/img12.jpg" alt=""/>
+        <img onmouseover="preview.src=img13.src" name="img13" src="images/img13.jpg" alt=""/>
+        <img onmouseover="preview.src=img14.src" name="img14" src="images/img14.jpg" alt=""/>
+        <img onmouseover="preview.src=img15.src" name="img15" src="images/img15.jpg" alt=""/>
+        <img onmouseover="preview.src=img16.src" name="img16" src="images/img16.jpg" alt=""/>
+        <img onmouseover="preview.src=img17.src" name="img17" src="images/img17.jpg" alt=""/>
+        <img onmouseover="preview.src=img18.src" name="img18" src="images/img18.jpg" alt=""/>
+        <img onmouseover="preview.src=img19.src" name="img19" src="images/img19.jpg" alt=""/>     
+	</div><br/>
+	<div class="preview" align="center">
+		<img name="preview" src="images/img1.jpg" alt=""/>
+	</div>
+
+</div>
+            </div>
+            <div id="quotesright"></div>
+        </div>
+
+
+
+</body>
+</html>

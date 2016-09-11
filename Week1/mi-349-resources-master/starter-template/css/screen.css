@@ -1,0 +1,75 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: #ccc;
+}
+
+#top {
+    list-style-type: none;
+    margin-left: 00px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    border-right:1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 400px;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+#prof{
+    width: 200px;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
+
+#quotescointainer{
+    width: 100%;
+    font-size: 12px;
+    overflow: hidden; /* contain floated elements */
+    background: #ccc
+}
+#quotesleft {
+    float: left; 
+    width: 22%;
+    background-color: #bbb;
+    height: 1000px;
+    margin-right: 20px;
+}
+#quotescenter { 
+    float: left;
+    background-color: #eee;
+    width: 50%;
+    height: 1000px;
+    font-size: 20px;
+}
+#quotesright{
+    float: left;
+    width: 22%;
+    background-color: #bbb;
+    height: 1000px;
+    margin-left: 20px;
+}
