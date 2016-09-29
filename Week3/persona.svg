@@ -277,15 +277,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="562.69277"
-     inkscape:cy="696.4299"
+     inkscape:zoom="1.4"
+     inkscape:cx="370.83811"
+     inkscape:cy="227.02125"
      inkscape:document-units="px"
      inkscape:current-layer="g3398"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1031"
-     inkscape:window-x="1440"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
@@ -296,7 +296,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -344,14 +344,14 @@
                d="m 0,0 c 0,0 -5.669,0 -5.669,-5.669 l 0,-137.67 c 0,0 0,-5.669 5.669,-5.669 l 373.216,0 c 0,0 5.669,0 5.669,5.669 l 0,137.67 c 0,0 0,5.669 -5.669,5.669 L 0,0 Z" />
           </g>
           <g
-             transform="translate(29.6517,870.8507)"
+             transform="matrix(1,0,0,0.75543751,29.6517,866.53879)"
              id="g3420"
              style="fill:#dde9af">
             <path
                inkscape:connector-curvature="0"
                id="path3422"
                style="fill:#dde9af;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,0 c 0,0 -5.669,0 -5.669,-5.669 l 0,-91.462 c 0,0 0,-5.67 5.669,-5.67 l 786.365,0 c 0,0 5.67,0 5.67,5.67 l 0,91.462 c 0,0 0,5.669 -5.67,5.669 L 0,0 Z" />
+               d="m 0,12.131251 c 0,0 -5.669,0 -5.669,-7.6759469 l 0,-123.8415041 c 0,0 0,-7.6773 5.669,-7.6773 l 786.365,0 c 0,0 5.67,0 5.67,7.6773 l 0,123.8415041 c 0,0 0,7.6759469 -5.67,7.6759469 l -786.365,0 z" />
           </g>
           <g
              transform="translate(29.6517,503.7641)"
@@ -383,7 +383,7 @@
                inkscape:connector-curvature="0"
                id="path3434"
                style="fill:#dde9af;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,-1.9311756e-7 c 0,0 -5.6688325,0.004462073118 -5.7194274,-7.01212930688244 L -5.9715718,-41.979979 c 0,0 -0.050595,-7.016591 5.61823764,-7.021053 L 373.05063,-49.294948 c 0,0 5.66983,-0.0045 5.72043,7.012129 l 0.25214,34.9678491 c 0,0 0.0506,7.0165914 -5.61923,7.02105427 L 0,-1.9311756e-7 Z" />
+               d="M -1.4526204e-8,-5.8002241e-7 C -1.4526204e-8,-5.8002241e-7 -5.6684969,0.01340113 -5.8204571,-9.7030481 L -6.577765,-58.125895 c 0,0 -0.1519603,-9.716449 5.5165367,-9.729851 L 372.32063,-68.738512 c 0,0 5.66949,-0.01346 5.82146,9.703045 l 0.7573,48.422847 c 0,0 0.15197,9.71644936 -5.51753,9.72985344 L -1.4526204e-8,-5.8002241e-7 Z" />
           </g>
         </g>
         <text
@@ -398,301 +398,70 @@
              id="tspan4315"
              x="175.69447"
              y="-1141.1882"
-             style="-inkscape-font-specification:'Helvetica Neue';font-family:'Helvetica Neue';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16.983752px">Kiro's Games</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'">Kiro'o Games</tspan></text>
       </g>
-      <text
-         id="text3436"
-         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue-CondensedBold;writing-mode:lr-tb;fill:#4f4c4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(1,0,0,-1,22.2608,9.2259)">
-        <tspan
-           id="tspan3438"
-           sodipodi:role="line"
-           y="0"
-           x="0 5.7600002 12.432 18.204">THE</tspan>
-        <tspan
-           id="tspan3440"
-           sodipodi:role="line"
-           y="0"
-           x="21.084 27.312 33.084 39.756001 45.984001 52.655998 59.543999 66.216003 69.096001 75.540001 82.211998 88.884003 94.655998 97.536003 103.764 110.436 116.664 122.424 128.196">PERSONA CORE POSTER</tspan>
-        <tspan
-           id="tspan3442"
-           sodipodi:role="line"
-           y="0"
-           x="134.868 137.748 143.748 149.076 151.95599 158.39999 165.07201 170.84399 176.856 182.616 185.71201 191.94 197.71201 200.592 207.036 213.70799 222.588 228.37199 235.04401 241.93201 245.028 251.7">by CREATIVE COMPANION</tspan>
-      </text>
       <text
          id="text3444"
          style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:28.30625343px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue-CondensedBold;writing-mode:lr-tb;fill:#7b7979;fill-opacity:1;fill-rule:nonzero;stroke:none"
          transform="scale(1,-1)"
-         x="41.690849"
+         x="23.574852"
          y="-1134.5342">
         <tspan
            id="tspan3446"
            sodipodi:role="line"
-           x="41.690849"
+           x="23.574852"
            y="-1134.5342"
-           style="font-size:28.30625343px;fill:#000000">Name</tspan>
+           style="font-size:25.4756279px;fill:#000000">NAME</tspan>
         <tspan
            id="tspan3448"
            sodipodi:role="line"
-           x="41.690849"
-           y="-1099.1514"
+           x="23.574852"
+           y="-1102.6897"
            style="font-size:28.30625343px;fill:#000000" />
       </text>
       <text
          id="text3450"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#4f4c4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(1,0,0,-1,35.7313,854.4874)">
-        <tspan
-           id="tspan3452"
-           sodipodi:role="line"
-           y="0"
-           x="0 5.8319998 10.503 15.336 18.171 23.004 28.007999 30.51 33.345001 38.348999 43.181999 45.683998 51.021 55.854 58.851002 63.351002 68.516998 73.521004 78.353996 80.351997 82.853996 88.191002 91.026001 96.192001 100.854 102.852 107.685 110.187 112.689 117.522 122.688 127.521 130.02299 132.52499 134.52299 139.689 144.522 149.355 152.19 154.188 159.354 164.358 166.86 169.362 171.36 176.526 181.86301 184.36501 187.2 189.198 192.033 194.03101 198.864 201.366 203.868 210.69 215.694 220.52699 223.362 225.864 230.535 232.533 237.537 242.87399 245.37601 250.54201 253.20599 255.70799 261.04501 265.87799 268.875 273.375 278.54099 283.54501 286.047 288.04501 292.54501 295.047 297.04501 299.88 304.884 307.38599 312.552 317.556 319.55399 324.55801 329.229 331.73099 336.564 341.901 347.06699 352.07101 354.90601 357.40799 362.57401 367.578 372.41101 374.91299 380.07901 383.07599 385.578 393.255 398.42099 401.25601 406.08899 408.591 413.92801 418.76099 421.758 426.258 431.42401 436.42801 441.26099 445.76099 448.263 450.927 453.76199 458.92801 466.60501 469.10699 473.60699 478.44 483.60599 491.28299 496.116 501.12 503.95499 508.78799 511.62299 513.62097 518.78699 523.79102 526.29303">Sketch the personal profle, age, location, job title, what kind of person is it? Think about one or more personas from segmentation.</tspan>
-        <tspan
-           id="tspan3454"
-           sodipodi:role="line"
-           x="0"
-           y="0" />
-        <tspan
-           id="tspan3456"
-           sodipodi:role="line"
-           y="-156.312"
-           x="0.29699999 6.7950001 11.628 16.965 19.799999 24.804001 27.639 32.472 34.973999 37.808998 42.813 47.646 50.147999 54.980999 59.480999 63.980999 68.814003 73.818001 78.651001 83.484001 85.986 88.820999 93.987 96.488998 101.655 106.659 111.492 113.994 119.16 122.157 124.659 127.494 134.31599 139.48199 141.98399 147.321 152.487 154.485 159.489 162.32401 166.82401 169.326 172.161 177.16499 181.998 184.83299 187.33501 192.168 197.334 202.338 204.336 209.673 212.175 217.008 222.174 229.851 234.68401 237.186 242.35201 247.356 250.19099 252.69299 257.85901 260.52301 263.02499 265.85999 270.86401 275.69699 278.19901 283.53601 288.36899 291.366 295.866 301.03201 306.03601 310.86899 312.70499 317.20499 319.707 324.87299 331.69501 336.69901">Capture the essence to one or two points that could come out of the persona’s own</tspan>
-        <tspan
-           id="tspan3458"
-           sodipodi:role="line"
-           y="-141.30901"
-           x="0.29699999 7.974 13.14 18.143999 20.979 25.983 28.485001 31.986 34.487999 38.987999 44.153999 46.655998 49.491001 54.657001 57.159 61.659 66.996002 71.829002 76.662003 81.333">mouth - so to speak.</tspan>
-        <tspan
-           id="tspan3460"
-           sodipodi:role="line"
-           x="0"
-           y="8.3088603e-10" />
-        <tspan
-           id="tspan3462"
-           sodipodi:role="line"
-           y="162.07201"
-           x="0.29699999 8.2980003 13.131 15.966 18.468 20.466 24.966 27.468 30.302999 35.306999 40.139999 42.641998 47.141998 52.146 57.483002 60.318001 65.151001 72.828003 77.661003 80.163002 87.839996 93.005997 95.841003 97.838997 102.339 107.172 110.007 115.173 118.17 123.174 125.676 134.00999 139.01401 143.847 146.68201 149.18401 154.017 156.85201 161.685 164.187 166.51801 168.51601 173.349 176.18401 181.017 186.021 188.856 191.187 193.689 198.69299 203.526 208.35899 213.696 218.196 220.698 225.53101 230.535 235.87199 238.37399 243.711 248.54401 253.04401 255.04201 257.87701 262.70999 267.20999 272.21399">Wat is the supreme motivator? What are (latent) needs and desires?</tspan>
-        <tspan
-           id="tspan3464"
-           sodipodi:role="line"
-           y="366.98401"
-           x="0.29699999 8.6309996 13.635 18.468 21.302999 23.805 29.142 34.307999 39.140999 43.640999 46.143002 50.643002 55.646999 60.48 62.981998 68.319 73.485001 78.488998 80.990997 85.157997 89.990997 91.988998 93.987 96.488998 100.989 103.824 108.99 111.987 113.985 118.818 123.318 125.82 130.653 135.99001 141.15601 146.16 148.995 151.49699 156.50101 161.334 164.33099 166.83299 172.17 177.00301 182.007 186.84 191.34 193.338 198.504 203.508 206.505 209.007 215.82899 220.83299 222.83099 224.82899 229.662 232.164 237.168 241.668 243.666 248.67 253.836 256.33801 261.17099 263.673 268.173 273.00601 276.00299 280.50299 282.50101 287.33401 292.16699 294.66901 297.17099 302.508 305.34299 310.509 315.84601 320.85001 325.68301 328.51801 331.01999 336.186 339.18301 341.685 346.185 348.18301 351.01801 355.85101 358.353 360.85501 367.353 372.35699 377.19 382.194 387.198 392.03101 394.02899 396.53101 401.535 406.035 410.86801 416.034 420.867 423.36899 426.03299 431.19901 434.19601 436.698 441.198 446.03101 449.02802 451.026 456.19199 461.19601 465.69601 468.198 473.202 478.035 482.86801 488.20499 492.70499 495.207 497.53799 499.53601 504.54001 507.375 512.20801 515.367 520.37097 525.20398 528.039 530.54102 533.04303 537.54303 539.54102 544.04102 546.039 548.87402 550.87201 555.87598 561.04199 563.54401 568.37701 573.54303 581.21997 586.55701 591.39001 594.38702 599.21997 604.55701 606.55499 611.388 613.89001 618.39001 620.388 623.22302 628.05603 632.55603 635.05798 637.56 645.237 650.40302 655.73999 657.73798 659.73602 664.56897 667.07098 669.573 674.073 679.23901 684.07202 686.07001 690.90302 692.901 695.40302 703.08002 707.91302 713.25 715.24799 720.08099 722.41199 724.914">What does she do? Tell stories about her behaviour while using a service, product or site. Channel usage for various needs (internet, visiting comparable sites, mobile, social media).</tspan>
-        <tspan
-           id="tspan3466"
-           sodipodi:role="line"
-           y="381.987"
-           x="0.29699999 8.6309996 13.635 18.468 21.302999 23.805 30.627001 35.792999 38.790001 43.460999 47.960999 50.463001 57.285 62.118 64.115997 66.113998 68.615997 71.117996 77.940002 82.944 87.777 90.612 93.113998 97.946999 100.782 105.615 108.117 110.952 115.956 120.789 123.291 125.955 128.952 133.95599 138.45599 141.291 144.28799 149.121 151.95599 153.95399 159.12 164.12399 168.62399 171.12601 173.62801 180.45 185.45399 190.287 193.12199 195.62399 197.62199 202.12199 204.62399 209.12399 211.959 217.125 222.46201 227.799 229.797 234.80099 239.967 242.46899 247.47301 252.306 255.30299 257.80499 260.46899 263.30399 268.47 276.147 278.64899 283.48199 288.48599 293.65201 298.81799 303.31799 305.31601 310.32001 315.48599 317.98801 322.82101 325.323 327.987 332.991 337.995 342.828 345.66299 347.66101 352.827 357.83099 360.33301 362.83499 367.33499 372.168 375.16501 379.66501 381.66299 386.496 391.32901 393.83099 398.99701 401.99399 404.496 409.83301 412.668 417.83401 423.17099 428.17499 433.008 435.84299">What works well, what are the frustrations, what is stopping her from choosing a function, service or product?</tspan>
-        <tspan
-           id="tspan3468"
-           sodipodi:role="line"
-           y="162.07201"
-           x="416.39401 424.728 429.73199 434.565 437.39999 439.90201 441.89999 446.39999 448.90201 451.737 456.741 461.57401 464.07599 469.41299 474.57901 476.577 481.58099 484.41599 486.918 492.08401 494.74799 497.25 501.75 503.74799 508.58099 515.40302 520.40698 522.909 531.24298 536.24701 541.08002 543.91498 546.41699 548.41498 552.91498 555.41699 558.25201 563.25598 568.08899 570.591 575.42401 580.086 585.42297 590.25598 595.08899 597.92401 602.75702 605.59198 607.59003 612.75598 617.76001 620.26202 622.76398 628.10101 632.93402 635.76898 640.60199 645.435 650.77197 653.60699 655.60498 660.771 665.77502 668.27698 673.44299 676.10699 678.60901 681.44397 686.448 691.28101 693.78302 698.28302 703.11603 706.11298 710.61298 712.61102 717.44397 722.27698 724.77899 727.28101 732.11401 737.28003 744.95697 750.29401 755.12701 760.13098 764.63098 767.133 772.29901 775.29602">What is the point of view? What is the expectation, perception of the service, company or</tspan>
+         transform="scale(1,-1)"
+         x="24.408802"
+         y="-863.54547">
         <tspan
            id="tspan3470"
            sodipodi:role="line"
-           y="177.075"
-           x="416.39401 421.73099 424.728 429.561 434.565 439.90201 442.40399 444.90601 453.23999 458.24399 463.077 465.91199 468.414 476.091 481.25699 484.09201 486.09 490.59 495.423 498.258 503.091 507.591 510.09299 512.92798 517.93201 522.76501 525.26703 530.604 535.43701 538.43402 542.93402 548.09998 553.104 557.93701 560.43903 563.27399 568.44 570.94202 576.10797 581.27399 583.776 586.61102 591.77698 594.27899 597.11401 602.11798 606.95099 609.453 616.27502 621.10797 626.44501 630.94501 632.94299 635.77802 640.61102 643.11298 645.61499 647.61298 652.617 655.45203 660.61798 663.12 665.95502 670.95898 675.79199 678.29401 682.79401 687.79797 692.96399 698.30103 700.80298 703.30499 708.47101 711.46802 713.96997 718.974 723.474 728.30701 730.80902 733.64398 738.64801 743.48102 745.98297 750.48297 755.31598 758.31299 762.81299 764.81097 769.64398 774.47699">brand. What motivates the persona to go to the website, into the shop, or use the service.</tspan>
-      </text>
-      <g
-         id="g3472">
-        <g
-           clip-path="url(#clipPath3476)"
-           id="g3474">
-          <g
-             transform="translate(48.434,138.1889)"
-             id="g3480">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3482"
-               style="fill:#d3ebf7;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,0 c 0,0 -12,0 -12,-12 l 0,-66 c 0,0 0,-12 12,-12 l 151.606,0 c 0,0 12,0 12,12 l 0,66 c 0,0 0,12 -12,12 L 0,0 Z" />
-          </g>
-        </g>
-      </g>
-      <text
-         id="text3484"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#4f4c4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(1,0,0,-1,51.0207,119.6997)">
-        <tspan
-           id="tspan3486"
-           sodipodi:role="line"
-           y="0"
-           x="0 5.1659999 9.9989996 14.499 17.334 19.836 25.002001 27.999001 30.500999 35.000999 36.999001 42.165001 48.987 51.488998 56.826 61.659 66.491997 68.489998 72.989998 74.987999 80.153999 85.157997 87.660004 95.336998 100.17 104.841 109.674 112.671">Fast or slow decision maker?</tspan>
-        <tspan
-           id="tspan3488"
-           sodipodi:role="line"
-           y="15.003"
-           x="0 8.3339996 13.338 17.172001 19.674 22.176001 27.18 32.346001 39.167999 41.669998 46.502998 51.335999 56.34 58.841999 63.341999 68.508003 73.512001 76.014 78.848999 83.681999 85.68 87.678001">Why, how can you tell?</tspan>
-        <tspan
-           id="tspan3490"
-           sodipodi:role="line"
-           y="45"
-           x="0 6.336 11.169 16.002001 18 22.5 24.497999 29.664 34.667999 39.167999 41.669998 49.347 54.18 59.516998 64.349998 66.851997 72.017998 77.022003 79.524002 82.188004 87.021004 91.853996 94.689003 99.189003 101.691 106.857 109.854 112.356 117.189 124.866 130.032 132.867 134.86501 140.03101 145.035">Decisions made on facts or emotion?</tspan>
-        <tspan
-           id="tspan3492"
-           sodipodi:role="line"
-           y="60.002998"
-           x="0 8.3339996 13.338 17.172001 19.674 22.176001 27.18 32.346001 39.167999 41.669998 46.502998 51.335999 56.34 58.841999 63.341999 68.508003 73.512001 76.014 78.848999 83.681999 85.68 87.678001">Why, how can you tell?</tspan>
-      </text>
-      <g
-         id="g3494">
-        <g
-           clip-path="url(#clipPath3498)"
-           id="g3496">
-          <g
-             transform="translate(48.434,293.9293)"
-             id="g3502">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3504"
-               style="fill:#d3ebf7;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,0 c 0,0 -12,0 -12,-12 l 0,-36.927 c 0,0 0,-12 12,-12 l 151.606,0 c 0,0 12,0 12,12 l 0,36.927 c 0,0 0,12 -12,12 L 0,0 Z" />
-          </g>
-        </g>
-      </g>
-      <text
-         id="text3506"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#4f4c4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(1,0,0,-1,51.0207,276.1664)">
-        <tspan
-           id="tspan3508"
-           sodipodi:role="line"
-           y="0"
-           x="0 8.3339996 13.338 15.336 20.169001 25.173 27.674999 32.013 34.848 39.681 44.685001 50.021999 54.521999 57.023998 59.526001 67.203003 69.200996 74.205002 79.542 84.042 86.876999 91.376999 93.375 98.208 102.708 105.21 110.376 113.373 115.875 121.041 123.876 128.88 133.713 136.71001">Which Trends, mindstyles or other</tspan>
-        <tspan
-           id="tspan3510"
-           sodipodi:role="line"
-           y="15.003"
-           x="0 1.998 7.0019999 12.339 14.337 19.17 24.003 26.837999 32.004002 35.000999 39.500999 42.002998 46.835999 49.671001 54.504002 57.006001 61.839001 67.176003 72.513 74.511002 76.509003 81.342003 86.175003 91.512001 93.510002 98.343002 100.845 103.509 108.675 111.672 114.174 117.009 122.013 124.011 128.511">indicators are applicable for this</tspan>
-        <tspan
-           id="tspan3512"
-           sodipodi:role="line"
-           y="30.006001"
-           x="0 5.3369999 10.17 13.167 17.667 22.833 27.837 32.669998">persona?</tspan>
-      </text>
-      <g
-         id="g3514">
-        <g
-           clip-path="url(#clipPath3518)"
-           id="g3516">
-          <g
-             transform="translate(48.434,209.9026)"
-             id="g3522">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3524"
-               style="fill:#d3ebf7;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,0 c 0,0 -12,0 -12,-12 l 0,-24.614 c 0,0 0,-12 12,-12 l 151.606,0 c 0,0 12,0 12,12 l 0,24.614 c 0,0 0,12 -12,12 L 0,0 Z" />
-          </g>
-        </g>
-      </g>
-      <text
-         id="text3526"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#4f4c4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(1,0,0,-1,51.0207,190.2618)">
-        <tspan
-           id="tspan3528"
-           sodipodi:role="line"
-           y="0"
-           x="0 6.4980001 11.664 18.486 20.988001 22.986 30.663 36 41.166 44.162998 46.998001 51.831001 56.834999 59.669998 62.172001 67.004997 69.839996 74.672997 77.175003 79.838997 84.843002 89.847 94.68 97.514999 99.513 104.679 109.683 114.516 116.514 119.016">How important are functional,</tspan>
-        <tspan
-           id="tspan3530"
-           sodipodi:role="line"
-           y="15.003"
-           x="0 4.8330002 12.51 17.676001 20.511 22.509001 27.674999 32.679001 37.512001 39.509998 42.012001 44.514 49.347 54.008999 59.346001 62.181 67.014 71.514 76.014 78.012001 82.512001 87.345001 89.847 95.183998 100.017 105.021 109.854 114.516 117.351 121.851">emotional, expressive benefts.</tspan>
-      </text>
-      <text
-         id="text3548"
-         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:8px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue-CondensedBold;writing-mode:lr-tb;fill:#4f4c4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(1,0,0,-1,714.8976,9.3655)">
-        <tspan
-           id="tspan3550"
-           sodipodi:role="line"
-           y="0"
-           x="0 6.0799999 12.16 17.648001 19.568001 23.864 28.312 32.16 36.167999 40.007999 42.071999 46.223999 50.071999 53.032001 57.327999 61.776001 67.695999 71.552002 76 80.592003 82.655998 87.103996 91.695999 93.615997 97.912003 102.36">WWW.CREATIVE-COMPANION.COM</tspan>
+           x="24.408802"
+           y="-863.54547" />
       </text>
       <text
          id="text3552"
          style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:24px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue-CondensedBold;writing-mode:lr-tb;fill:#7b7979;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(1,0,0,-1,36.0296,1034.3064)">
+         transform="scale(1,-1)"
+         x="22.4426"
+         y="-1041.1">
         <tspan
            id="tspan3554"
            sodipodi:role="line"
-           y="0"
-           x="0 13.344 26.256001 39.599998 51.119999">QUOTE</tspan>
+           y="-1041.1"
+           x="22.4426 35.786602 48.698601 62.042583 73.562576"
+           style="font-size:25.4756279px;fill:#000000">QUOTE</tspan>
         <tspan
            id="tspan3556"
            sodipodi:role="line"
-           y="317.47198"
-           x="413.39999 431.64001 444.98401 457.008 468.52802 473.39999 485.42401 496.944 508.46399 514.65601 526.17603 539.08801 552.86401 564.40802 0 18.24 31.584 43.608002 55.127998 60.888 74.232002 87.575996 100.92 112.032 124.488">WHAT ATTITUDE?WHAT GOALS?</tspan>
+           y="-723.62799"
+           x="435.84262 454.08264 467.42664 479.45062 490.97064 495.84262 507.86652 519.38641 530.90643 537.09845 548.61847 561.53046 575.30646 586.85046 22.4426 40.682602 54.0266 66.050583 77.57058 83.330582 96.674576 110.01857 123.36261 134.47462 146.93062"
+           style="font-size:25.4756279px;fill:#000000">WHAT ATTITUDE?WHAT GOALS?</tspan>
         <tspan
            id="tspan3558"
            sodipodi:role="line"
-           y="157.32001"
-           x="0 18.24 31.584 44.928001 50.688 56.880001 69.335999 75.096001 81.288002 92.807999 98.568001">WHO IS IT ?</tspan>
+           y="-883.77997"
+           x="22.4426 40.682602 54.0266 67.370583 73.130577 79.322578 91.77858 97.538589 103.73058"
+           style="font-size:25.4756279px;fill:#000000">WHO IS IT?</tspan>
         <tspan
            id="tspan3560"
            sodipodi:role="line"
-           y="523.70398"
-           x="0 18.24 31.584 37.776001 50.664001 64.008003 69.767998 83.112 94.655998 108 120.864 133.32001 139.51199 152.856 165.76801 179.112">WHICH BEHAVIOUR?</tspan>
+           y="-517.396"
+           x="22.4426 40.682602 54.0266 60.21859 73.106583 86.450592 92.210579 105.55457 117.09858 130.44263 143.30663 155.76263 161.95462 175.29863 188.21063 201.55463"
+           style="font-size:25.4756279px;fill:#000000">WHICH BEHAVIOUR?</tspan>
       </text>
-      <g
-         id="g3586">
-        <g
-           clip-path="url(#clipPath3590)"
-           id="g3588">
-          <g
-             transform="translate(629.1321,626.8956)"
-             id="g3614" />
-          <g
-             transform="translate(675.4711,96.8578)"
-             id="g3618">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3620"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,0 c -1.758,1.028 -3.801,2.136 -5.918,2.136 -0.731,0 -1.631,-0.13 -2.531,-0.589 0.032,0.11 0.064,0.22 0.096,0.33 l 0.031,0.1 0.021,0.1 0.434,2.285 c 0.349,1.907 0.276,6.469 -8.056,7.866 -0.964,0.16 -1.8,0.24 -2.562,0.24 -3.568,0 -5.876,-1.857 -6.512,-5.231 l -0.01,-0.04 -0.212,4.303 0,0.05 -0.01,0.039 c -0.191,2.137 -1.419,5.74 -7.528,5.74 -0.486,0 -0.995,-0.02 -1.567,-0.069 -7.601,-0.599 -8.438,-4.612 -8.236,-6.988 l 0.021,-0.569 c -0.286,-0.999 -0.561,-1.248 -0.805,-1.428 -0.042,9.953 -0.127,28.5 -0.138,29.558 l 0,0.04 0,0.04 c -0.169,4.432 -3.991,7.906 -8.691,7.906 -0.096,0 -0.201,-0.01 -0.308,-0.01 -2.329,-0.08 -4.478,-1.008 -6.056,-2.606 -1.566,-1.597 -2.392,-3.663 -2.328,-5.839 l 0.434,-37.444 c 0,-9.204 -0.403,-14.773 -1.197,-16.591 -0.117,0.08 -0.254,0.18 -0.423,0.3 l -11.837,8.764 c -1.556,1.229 -3.535,1.907 -5.568,1.907 -2.573,0 -4.998,-1.058 -6.649,-2.905 -1.503,-1.677 -2.224,-3.793 -2.022,-5.979 0.19,-2.176 1.27,-4.163 3.049,-5.571 l 20.401,-16.27 c 4.806,-8.027 10.121,-12.119 12.504,-13.677 l 0.084,-8.564 0.021,-2.286 40.983,0 0.032,2.266 0.148,9.024 12.059,35.856 0.021,0.061 0.021,0.069 0.307,1.128 C 3.101,-6.728 4.256,-2.525 0,0" />
-          </g>
-          <g
-             transform="translate(549.0772,117.0663)"
-             id="g3622">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3624"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,0 c -1.195,0.773 -2.568,1.178 -3.973,1.178 -2.6,0 -4.976,-1.357 -6.354,-3.629 l -0.073,-0.122 -0.055,-0.123 -7.859,-17.569 c 0,0.028 -0.005,0.048 -0.005,0.066 l 5.018,29.144 c 0.721,4.203 -2.002,8.228 -6.067,8.983 -0.433,0.075 -0.875,0.112 -1.318,0.112 -3.635,0 -6.737,-2.686 -7.371,-6.381 l -4.743,-27.541 -2.765,34.384 c -0.319,3.978 -3.594,7.098 -7.458,7.098 -0.209,0 -0.419,-0.01 -0.625,-0.029 -4.123,-0.358 -7.193,-4.1 -6.851,-8.351 l 2.842,-35.373 c 0.046,-1.244 0.023,-2.149 -0.027,-2.819 -0.37,0.594 -0.735,1.301 -0.967,1.989 -0.11,0.32 -0.224,0.613 -0.342,0.877 l -8.462,28.474 c -0.976,3.271 -3.854,5.476 -7.165,5.476 -0.744,0 -1.483,-0.122 -2.199,-0.349 -1.916,-0.603 -3.485,-1.941 -4.42,-3.77 -0.94,-1.828 -1.131,-3.921 -0.543,-5.9 l 8.594,-28.917 c 3.425,-11.565 2.066,-14.733 1.569,-15.43 -0.197,-0.264 -0.392,-0.367 -0.73,-0.367 -0.648,0 -1.537,0.395 -2.327,1.036 l -10.194,8.266 c -1.346,1.169 -3.047,1.81 -4.803,1.81 -2.212,0 -4.301,-0.999 -5.729,-2.743 -1.291,-1.583 -1.911,-3.581 -1.743,-5.645 0.169,-2.065 1.1,-3.931 2.632,-5.269 l 17.58,-15.355 c 4.137,-7.578 8.717,-11.442 10.769,-12.913 l 0.073,-9.302 0.018,-2.168 35.319,0 0.027,2.149 0.123,9.275 c 8.156,10.161 8.216,23.563 8.115,26.57 L 2.44,-10.557 C 4.543,-6.956 3.462,-2.243 0,0" />
-          </g>
-          <g
-             transform="translate(759.8986,93.5738)"
-             id="g3626">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3628"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,0 c 0,-3.918 0.742,-7.093 4.726,-7.093 l 22.036,0 c 3.985,0 4.727,3.175 4.727,7.093 0,3.92 -0.742,7.097 -4.727,7.097 l -22.036,0 C 0.742,7.097 0,3.92 0,0 m 30.215,-9.723 -29.489,0 c -3.985,0 -4.727,-3.176 -4.727,-7.096 0,-3.916 0.742,-7.095 4.727,-7.095 l 29.489,0 c 3.984,0 4.726,3.179 4.726,7.095 0,3.92 -0.742,7.096 -4.726,7.096 m -2.283,-17.075 -23.262,0 c -3.985,0 -4.727,-3.175 -4.727,-7.095 0,-3.919 0.742,-7.096 4.727,-7.096 l 23.262,0 c 3.984,0 4.734,3.177 4.734,7.096 0,3.92 -0.75,7.095 -4.734,7.095 m -6.17,-17.434 -13.253,0 c -3.984,0 -4.726,-3.175 -4.726,-7.097 0,-3.916 0.742,-7.093 4.726,-7.093 l 13.253,0 c 3.984,0 4.726,3.177 4.726,7.093 0,3.922 -0.742,7.097 -4.726,7.097 m -18.641,0.723 c -2.807,0.363 -4.274,1.997 -5.017,3.396 -0.806,1.519 -1.169,3.438 -1.169,6.22 0,2.78 0.363,4.702 1.169,6.221 0.218,0.414 0.508,0.85 0.871,1.266 -2.677,0.414 -4.089,2.002 -4.815,3.367 -0.815,1.521 -1.169,3.439 -1.169,6.22 0,2.783 0.354,4.703 1.169,6.222 0.71,1.341 2.089,2.896 4.678,3.342 -0.274,0.344 -0.5,0.696 -0.677,1.035 -0.815,1.519 -1.17,3.437 -1.17,6.22 0,2.783 0.355,4.703 1.17,6.222 0.839,1.585 2.605,3.47 6.202,3.47 l 4.493,0 c 0.46,3.288 9.728,10.32 9.728,24.699 0,15.762 -17.068,13.939 -17.068,13.939 l 0,-9.781 C -1.476,27.645 -21.35,10.81 -26.973,6.214 c -6.662,-3.342 -10.8,-9.868 -10.8,-17.914 l 0,-23.992 c 0,-12.414 10.244,-22.479 22.883,-22.479 l 17.213,0 c -0.146,0.21 -0.274,0.42 -0.379,0.624 -0.807,1.52 -1.17,3.437 -1.17,6.218 0,2.785 0.363,4.703 1.17,6.224 0.282,0.527 0.661,1.083 1.177,1.596" />
-          </g>
-        </g>
-      </g>
-      <text
-         id="text3630"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#a7a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(0,1,1,0,13.6081,593.8583)">
-        <tspan
-           id="tspan3632"
-           sodipodi:role="line"
-           y="0"
-           x="0 7.776 15.552 23.327999 26.436001 34.655998 41.327999 48.216 51.324001 60.444 69.108002 76.884003">ASPIRATIONAL</tspan>
-      </text>
-      <g
-         transform="translate(8.7402,686.6532)"
-         id="g3634">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3636"
-           style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 6.871;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 0,0 0,10.307" />
-      </g>
       <g
          transform="translate(8.7402,679.7819)"
          id="g3638">
@@ -701,31 +470,6 @@
            id="path3640"
            style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 0,0 0,0 m 0,20.614 0,0" />
-      </g>
-      <g
-         id="g3642">
-        <g
-           clip-path="url(#clipPath3646)"
-           id="g3644">
-          <g
-             transform="translate(8.7402,700.396)"
-             id="g3650">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3652"
-               style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="M 0,0 C 2.209,0 4,1.791 4,4 4,6.209 2.209,8 0,8 -2.209,8 -4,6.209 -4,4 -4,1.791 -2.209,0 0,0 Z" />
-          </g>
-        </g>
-      </g>
-      <g
-         transform="translate(8.7402,584.6561)"
-         id="g3654">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3656"
-           style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 6.871;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 0,0 0,-10.307" />
       </g>
       <g
          transform="translate(8.7402,591.5275)"
@@ -737,41 +481,6 @@
            d="m 0,0 0,0 m 0,-20.614 0,0" />
       </g>
       <g
-         id="g3662">
-        <g
-           clip-path="url(#clipPath3666)"
-           id="g3664">
-          <g
-             transform="translate(8.7402,570.9134)"
-             id="g3670">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3672"
-               style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m 0,0 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z" />
-          </g>
-        </g>
-      </g>
-      <text
-         id="text3674"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#a7a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(0,1,1,0,13.6081,859.7455)">
-        <tspan
-           id="tspan3676"
-           sodipodi:role="line"
-           y="0"
-           x="0 7.3319998 15.78 24.444 33.108002 39.779999 46.667999 54 62.448002 65.783997 74.891998 83.556 90.888 98.664001">EDUCATED GUESS</tspan>
-      </text>
-      <g
-         transform="translate(8.6219,978.1094)"
-         id="g3678">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3680"
-           style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 5.866;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 0,0 0.09,38.131" />
-      </g>
-      <g
          transform="translate(8.6081,972.2432)"
          id="g3682">
         <path
@@ -781,30 +490,7 @@
            d="m 0,0 0,0 m 0.111,46.93 0,0" />
       </g>
       <g
-         id="g3686">
-        <g
-           clip-path="url(#clipPath3690)"
-           id="g3688">
-          <g
-             transform="translate(8.7283,1019.1736)"
-             id="g3694">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3696"
-               style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="M 0,0 C 2.209,0 4,1.791 4,4 4,6.209 2.209,8 0,8 -2.209,8 -4,6.209 -4,4 -4,1.791 -2.209,0 0,0 Z" />
-          </g>
-        </g>
-      </g>
-      <g
-         transform="translate(8.7402,847.1724)"
-         id="g3698">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3700"
-           style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 6.056;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 0,0 0,-63.587" />
-      </g>
+         id="g3686" />
       <g
          transform="translate(8.7402,853.2283)"
          id="g3702">
@@ -814,32 +500,6 @@
            style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 0,0 0,0 m 0,-72.671 0,0" />
       </g>
-      <g
-         id="g3706">
-        <g
-           clip-path="url(#clipPath3710)"
-           id="g3708">
-          <g
-             transform="translate(8.7402,780.5571)"
-             id="g3714">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3716"
-               style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m 0,0 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z" />
-          </g>
-        </g>
-      </g>
-      <text
-         id="text3718"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#a7a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(0,-1,-1,0,827.2776,677.451)">
-        <tspan
-           id="tspan3720"
-           sodipodi:role="line"
-           y="0"
-           x="0 7.776 15.552 23.327999 26.436001 34.655998 41.327999 48.216 51.324001 60.444 69.108002 76.884003">ASPIRATIONAL</tspan>
-      </text>
       <g
          transform="translate(832.1455,584.6561)"
          id="g3722">
@@ -908,25 +568,6 @@
           </g>
         </g>
       </g>
-      <text
-         id="text3762"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#a7a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(0,1,1,0,13.2673,225.2463)">
-        <tspan
-           id="tspan3764"
-           sodipodi:role="line"
-           y="0"
-           x="0 7.776 16.440001 23.327999 31.992001 39.768002">ACTUAL</tspan>
-      </text>
-      <g
-         transform="translate(8.7402,283.3206)"
-         id="g3766">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3768"
-           style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 5.943;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 0,0 0,205.023" />
-      </g>
       <g
          transform="translate(8.7402,277.3779)"
          id="g3770">
@@ -937,31 +578,6 @@
            d="m 0,0 0,0 m 0,213.937 0,0" />
       </g>
       <g
-         id="g3774">
-        <g
-           clip-path="url(#clipPath3778)"
-           id="g3776">
-          <g
-             transform="translate(8.7402,491.3149)"
-             id="g3782">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3784"
-               style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="M 0,0 C 2.209,0 4,1.791 4,4 4,6.209 2.209,8 0,8 -2.209,8 -4,6.209 -4,4 -4,1.791 -2.209,0 0,0 Z" />
-          </g>
-        </g>
-      </g>
-      <g
-         transform="translate(8.7402,213.1216)"
-         id="g3786">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3788"
-           style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 5.9;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 0,0 0,-162.25" />
-      </g>
-      <g
          transform="translate(8.7402,219.0217)"
          id="g3790">
         <path
@@ -970,32 +586,6 @@
            style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 0,0 0,0 m 0,-171.1 0,0" />
       </g>
-      <g
-         id="g3794">
-        <g
-           clip-path="url(#clipPath3798)"
-           id="g3796">
-          <g
-             transform="translate(8.7402,47.9212)"
-             id="g3802">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3804"
-               style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m 0,0 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z" />
-          </g>
-        </g>
-      </g>
-      <text
-         id="text3806"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#a7a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(0,-1,-1,0,827.2776,313.9899)">
-        <tspan
-           id="tspan3808"
-           sodipodi:role="line"
-           y="0"
-           x="0 7.776 16.440001 23.327999 31.992001 39.768002">ACTUAL</tspan>
-      </text>
       <g
          transform="translate(831.8047,255.9156)"
          id="g3810">
@@ -1013,22 +603,6 @@
            id="path3816"
            style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 0,0 0,0 m 0,-213.937 0,0" />
-      </g>
-      <g
-         id="g3818">
-        <g
-           clip-path="url(#clipPath3822)"
-           id="g3820">
-          <g
-             transform="translate(831.8047,47.9213)"
-             id="g3826">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3828"
-               style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m 0,0 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z" />
-          </g>
-        </g>
       </g>
       <g
          transform="translate(831.8047,326.1146)"
@@ -1062,96 +636,6 @@
                style="fill:none;stroke:#a7a5a6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                d="M 0,0 C 2.209,0 4,1.791 4,4 4,6.209 2.209,8 0,8 -2.209,8 -4,6.209 -4,4 -4,1.791 -2.209,0 0,0 Z" />
           </g>
-        </g>
-      </g>
-      <text
-         id="text3850"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(1,0,0,-1,376.5827,13.4646)">
-        <tspan
-           id="tspan3852"
-           sodipodi:role="line"
-           y="0"
-           x="0 3.0550001 5.835 6.9450002 9.4449997 10.835 14.445 17.225 18.889999 21.389999 22.780001 23.889999 26.389999 27.780001 28.889999 30 32.5 35.279999 38.060001 40.560001 43.34 46.119999 47.509998 50.290001 53.07 55.849998 58.630001 60.294998 61.685001 63.075001 65.855003 68.635002 70.025002 73.635002 75.300003 78.080002 80.860001 82.25 83.360001 85.860001 88.639999 90.029999 93.639999 96.419998 100.585 104.75 107.53 110.31 112.81 113.94 117.275 118.665 120.055 121.72 122.83 125.61 128.39 129.78 130.89 133.67 136.45 138.11501 141.45 144.23 147.00999 148.675 151.455 154.78999 155.89999 157.00999 159.50999 162.28999 163.67999 166.46001 167.85001 170.63 172.02 175.63 178.41 181.19 183.97 185.63499 187.02499 189.80499 192.58501 193.97501 196.755 197.86501 200.36501 203.145 205.925 208.425 211.205 212.595 213.91 216.41 219.19 220.58 223.08 224.19 226.97 230.58 231.97 234.75 236.14 238.64 241.42 244.2 246.7 248.09 250.87 252.25999 253.64999 255.03999 257.82001 258.92999 261.42999 262.82001 263.92999 265.04001 267.54001 270.32001 273.10001 275.60001 278.38 279.76999 281.16 283.66 284.76999 287.26999 288.38 289.76999 291.16 293.94 295.32999 296.72 299.5 300.89001 302.28 303.67001 306.17001 307.83499 310.61499 313.39499 314.785 315.89499 318.39499 321.17499">This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creative-</tspan>
-        <tspan
-           id="tspan3854"
-           sodipodi:role="line"
-           y="6"
-           x="0 2.5 5.2800002 9.4449997 13.61 16.389999 19.17 21.67 23.059999 25.84 27.504999 30.285 31.674999 32.785 33.895 36.395 39.174999 41.955002 44.455002 47.235001 49.735001 51.125 53.904999 56.404999 58.07 60.57 63.349998 64.739998 67.519997 68.910004 71.690002 73.080002 74.470001 77.25 78.915001 80.305 82.805 85.584999 88.364998 91.144997 92.535004 95.315002 96.705002 97.815002 100.595 101.985 103.375 106.155 107.82 109.21 110.6 113.38 114.77 118.38 120.045 122.825 125.605 126.995 128.105 130.605 133.38499 134.77499 138.38499 141.16499 145.33 149.495 152.27499 155.05499 157.55499 158.94501 160.33501 163.11501 165.895 168.675 170.065 173.675 176.455 178.955 180.345 182.00999 184.78999 186.17999 189.515 190.905 192.57001 195.35001 198.13 199.52 200.91 202.3 205.63499 208.41499 209.52499 210.91499 213.69501 215.08501 217.86501 220.645 223.425 224.815 226.205 230.37 233.14999 235.92999 238.71001 240.10001 242.88 243.99001 246.77 248.16 251.42 252.53 255.31 258.64999 260.04001 261.42999 265.04001 267.82001 268.92999 270.04001 271.42999 274.20999 275.875 278.655 279.76501 282.54501 283.935 285.32501 288.10501 290.88501 293.66501 296.44501 299.22501 300.61499 302.005 305.61499 308.95001 312.285">commons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</tspan>
-      </text>
-      <g
-         id="g3856">
-        <g
-           transform="matrix(12.614166,0,0,12.614166,294.23621,6.9732971)"
-           id="g3858">
-          <image
-             id="image3864"
-             mask="url(#mask3860)"
-             xlink:href="data:image/png;base64,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"
-             transform="matrix(1,0,0,-1,0,1)"
-             preserveAspectRatio="none"
-             height="1"
-             width="1" />
-        </g>
-      </g>
-      <g
-         id="g3866">
-        <g
-           transform="matrix(12.614166,0,0,12.614166,308.40945,6.9732971)"
-           id="g3868">
-          <image
-             id="image3874"
-             mask="url(#mask3870)"
-             xlink:href="data:image/png;base64,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"
-             transform="matrix(1,0,0,-1,0,1)"
-             preserveAspectRatio="none"
-             height="1"
-             width="1" />
-        </g>
-      </g>
-      <g
-         id="g3876">
-        <g
-           transform="matrix(12.614166,0,0,12.614166,322.58267,6.9732971)"
-           id="g3878">
-          <image
-             id="image3884"
-             mask="url(#mask3880)"
-             xlink:href="data:image/png;base64,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"
-             transform="matrix(1,0,0,-1,0,1)"
-             preserveAspectRatio="none"
-             height="1"
-             width="1" />
-        </g>
-      </g>
-      <g
-         id="g3886">
-        <g
-           transform="matrix(12.614166,0,0,12.614166,336.75589,6.9732971)"
-           id="g3888">
-          <image
-             id="image3894"
-             mask="url(#mask3890)"
-             xlink:href="data:image/png;base64,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"
-             transform="matrix(1,0,0,-1,0,1)"
-             preserveAspectRatio="none"
-             height="1"
-             width="1" />
-        </g>
-      </g>
-      <g
-         id="g3896">
-        <g
-           transform="matrix(12.614166,0,0,12.614166,350.92914,6.9732971)"
-           id="g3898">
-          <image
-             id="image3904"
-             mask="url(#mask3900)"
-             xlink:href="data:image/png;base64,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"
-             transform="matrix(1,0,0,-1,0,1)"
-             preserveAspectRatio="none"
-             height="1"
-             width="1" />
         </g>
       </g>
       <g
@@ -1196,45 +680,344 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:25.4756279px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="179.73822"
-         y="-1100.5891"
+         style="font-style:normal;font-weight:normal;font-size:26.10868454px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="161.94308"
+         y="-1127.9382"
          id="text4317"
          sodipodi:linespacing="125%"
-         transform="scale(1,-1)"><tspan
+         transform="scale(1.0248495,-0.97575302)"><tspan
            sodipodi:role="line"
            id="tspan4319"
-           x="179.73822"
-           y="-1100.5891"
-           style="font-size:14.15312672px">Kiro's is a game deelopement company</tspan><tspan
+           x="161.94308"
+           y="-1127.9382"
+           style="font-size:18.39906502px">Kiro's is a game deelopement company</tspan><tspan
            sodipodi:role="line"
-           x="179.73822"
-           y="-1082.8977"
-           style="font-size:14.15312672px"
-           id="tspan4323">it specialises in game design and productions</tspan><tspan
+           x="161.94308"
+           y="-1104.9395"
+           style="font-size:18.39906502px"
+           id="tspan4323">it specialises in game design and</tspan><tspan
            sodipodi:role="line"
-           x="179.73822"
-           y="-1065.2063"
-           style="font-size:14.15312672px"
+           x="161.94308"
+           y="-1081.9406"
+           style="font-size:18.39906502px"
+           id="tspan3592"> productions</tspan><tspan
+           sodipodi:role="line"
+           x="161.94308"
+           y="-1058.9418"
+           style="font-size:18.39906502px"
            id="tspan4321" /></text>
       <text
          y="-1083.9873"
-         x="38.860222"
+         x="23.008724"
          transform="scale(1,-1)"
          style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:24px;font-family:'Helvetica Neue';-inkscape-font-specification:HelveticaNeue-CondensedBold;writing-mode:lr-tb;fill:#7b7979;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text4325">
         <tspan
-           x="38.860222 52.636223 64.180222 76.63623 89.524231 102.86824 109.06023 121.51623 133.03622 146.38022"
+           x="23.008724 36.784725 48.328724 60.784714 73.672707 87.016716 93.20871 105.6647 117.18472 130.52875"
            y="-1083.9873"
            sodipodi:role="line"
            id="tspan4327"
-           style="fill:#000000">DESCRIPTOR</tspan>
+           style="font-size:25.4756279px;fill:#000000">DESCRIPTOR</tspan>
         <tspan
-           y="61.869381"
-           x="38.860222"
+           y="-833.43793"
+           x="23.008724"
            sodipodi:role="line"
            id="tspan4329" />
       </text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3594"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(1.1322501,0,0,-1.1322501,1.8132072,1211.3126)"><flowRegion
+           id="flowRegion3596"><rect
+             id="rect3598"
+             width="462.64984"
+             height="103.5407"
+             x="22.728432"
+             y="159.63989" /></flowRegion><flowPara
+           style="font-size:16.25px"
+           id="flowPara3602">&quot;Everyone is passionate about something. Here in Kiro'o we are passionate about helping youth explore their artistic side. We are enthuastic to see what youth can come up with when given the opportunity.&quot; <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+   id="flowSpan3606"></flowSpan></flowPara><flowPara
+           style="font-size:16.25px"
+           id="flowPara3614"><flowSpan
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="flowSpan3616">Madiba CEO Kiro'o</flowSpan></flowPara></flowRoot>      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.81437733px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         x="34.971958"
+         y="-846.80322"
+         id="text3620"
+         sodipodi:linespacing="125%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan3622"
+           x="34.971958"
+           y="-846.80322" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.4756279px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.272587"
+         y="-854.08197"
+         id="text3624"
+         sodipodi:linespacing="125%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan3626"
+           x="44.272587"
+           y="-854.08197" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.81437683px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="27.854961"
+         y="-857.96411"
+         id="text3628"
+         sodipodi:linespacing="125%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan3630"
+           x="27.854961"
+           y="-857.96411"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"><tspan
+   style="font-weight:bold"
+   id="tspan3712">Name</tspan>: Madiba Olivier </tspan><tspan
+           sodipodi:role="line"
+           x="27.854961"
+           y="-834.94647"
+           id="tspan3632"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"><tspan
+   style="font-weight:bold"
+   id="tspan3714">Location</tspan>: Cameroon</tspan><tspan
+           sodipodi:role="line"
+           x="27.854961"
+           y="-811.92883"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3652"><tspan
+   style="font-weight:bold"
+   id="tspan3716">Career Path</tspan>: Olivier is self taught game developer with background in Computer science</tspan><tspan
+           sodipodi:role="line"
+           x="27.854961"
+           y="-788.91113"
+           id="tspan3636"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"><tspan
+   style="font-weight:bold"
+   id="tspan3720">Age</tspan>: 25 - 35 years</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.92418289px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="24.558022"
+         y="-689.73114"
+         id="text3654"
+         sodipodi:linespacing="125%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           x="24.558022"
+           y="-689.73114"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3662">Kiro'o Studio aims at creating games that are </tspan><tspan
+           sodipodi:role="line"
+           x="24.558022"
+           y="-666.7323"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3668">inspired by Africa with an inspiring narration. </tspan><tspan
+           sodipodi:role="line"
+           x="24.558022"
+           y="-643.73346"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3670">The studio hopes to promote youth creative </tspan><tspan
+           sodipodi:role="line"
+           x="24.558022"
+           y="-620.73462"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3672">minds by offering them an opportunity to be a </tspan><tspan
+           sodipodi:role="line"
+           x="24.558022"
+           y="-597.73584"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3674">part of Kiro'o. Kiro'o is looking for talented artist</tspan><tspan
+           sodipodi:role="line"
+           x="24.558022"
+           y="-574.737"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3710"> youth.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.4756279px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="439.34177"
+         y="-689.4613"
+         id="text3676"
+         sodipodi:linespacing="125%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           x="439.34177"
+           y="-689.4613"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3680">Due to technological barrier in the continent, </tspan><tspan
+           sodipodi:role="line"
+           x="439.34177"
+           y="-666.46246"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3682">the studio is always looking for self-driven </tspan><tspan
+           sodipodi:role="line"
+           x="439.34177"
+           y="-643.46362"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3690">youth to join them. My website will be a great</tspan><tspan
+           sodipodi:role="line"
+           x="439.34177"
+           y="-620.46478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3726">tool as a marketing of my skills to such great</tspan><tspan
+           sodipodi:role="line"
+           x="439.34177"
+           y="-597.466"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3728">company. It will have some of my projects and</tspan><tspan
+           sodipodi:role="line"
+           x="439.34177"
+           y="-574.46716"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3732">my current working location.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.4756279px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="466.03574"
+         y="-483.67441"
+         id="text3736"
+         sodipodi:linespacing="125%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           x="466.03574"
+           y="-483.67441"
+           id="tspan3740" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.4756279px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="29.310709"
+         y="-453.7507"
+         id="text3744"
+         sodipodi:linespacing="125%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           x="29.310709"
+           y="-453.7507"
+           id="tspan3750"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'">Kiro'o Studio is the first game development in Central Africa. The Studio started as a start up </tspan><tspan
+           sodipodi:role="line"
+           x="29.310709"
+           y="-430.75186"
+           id="tspan3762"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'">idea by Madiba Olivier in 2002. The studio aim is to unify and distribute African culture by </tspan><tspan
+           sodipodi:role="line"
+           x="29.310709"
+           y="-407.75305"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3883">combining various myths, folktales and traditional African values into the gaming industry.</tspan><tspan
+           sodipodi:role="line"
+           x="29.310709"
+           y="-384.75421"
+           id="tspan3774"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"> </tspan><tspan
+           sodipodi:role="line"
+           x="29.310709"
+           y="-361.75537"
+           id="tspan3768"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'">In an interview, Mr Madiba indicated the growing concern of youth unemployment in the </tspan><tspan
+           sodipodi:role="line"
+           x="29.310709"
+           y="-338.75653"
+           id="tspan3770"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'">continent. He hopes to give an opportunity to hardworking youth to be part of the Kiro'o </tspan><tspan
+           sodipodi:role="line"
+           x="29.310709"
+           y="-315.75772"
+           id="tspan3784"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'">mission. Madiba is also an experience programmer and believes that the best developer in the </tspan><tspan
+           sodipodi:role="line"
+           x="29.310709"
+           y="-292.75888"
+           id="tspan3788"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'">world are the ones which are always ready to share their work for constructive critisicm.</tspan><tspan
+           sodipodi:role="line"
+           x="29.310709"
+           y="-269.76004"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3895" /><tspan
+           sodipodi:role="line"
+           x="29.310709"
+           y="-246.76122"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3897">Until now, Kiro'o has almost 20 employees who are working together to produce &quot;sAurion: </tspan><tspan
+           sodipodi:role="line"
+           x="29.310709"
+           y="-223.76239"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3903">Legacy of the Kori-Odan&quot;. This is an action RPG game based on Ghana history of kingship.</tspan><tspan
+           sodipodi:role="line"
+           x="29.310709"
+           y="-200.76357"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.39906502px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue'"
+           id="tspan3881" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.4756279px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="387.58701"
+         y="-396.32944"
+         id="text3756"
+         sodipodi:linespacing="125%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan3758"
+           x="387.58701"
+           y="-396.32944" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.4756279px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="131.21321"
+         y="-171.49693"
+         id="text3776"
+         sodipodi:linespacing="125%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           x="131.21321"
+           y="-171.49693"
+           id="tspan3780" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.4756279px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="746.672"
+         y="-296.04443"
+         id="text3887"
+         sodipodi:linespacing="125%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           x="746.672"
+           y="-296.04443"
+           id="tspan3891" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.4756279px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="730.49701"
+         y="-233.77068"
+         id="text3899"
+         sodipodi:linespacing="125%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan3901"
+           x="730.49701"
+           y="-233.77068" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.4756279px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="232.30698"
+         y="-228.10944"
+         id="text3905"
+         sodipodi:linespacing="125%"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan3907"
+           x="232.30698"
+           y="-228.10944" /></text>
     </g>
   </g>
 </svg>
