@@ -1,0 +1,42 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: white;
+}
+
+.theContent {
+  float: :left;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.TOC {
+  margin-top: 50px;
+  float: left;
+  width: 200px;
+  height: 500px;
+  position: fixed;
+  overflow-y: scroll;
+}
+.TOCHead {
+  float:left;
+  position: fixed;
+  margin-top: -30px;
+}
+
+:target {
+  animation: highlight 1s ease;
+  transform: translateX(20px);
+}
+@keyframes highlight {
+  0% { border-left-color: red; }
+  100% { border-left-color: white; }
+}
+.theArticle, .theAmendment, .theSection{
+  border-left: 40px solid white;
+  padding: 10px;
+  transition: all 0.5s ease;
+  padding-right: 50px;
+  margin-left: -20px;
+}
