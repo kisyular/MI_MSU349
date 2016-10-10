@@ -1,0 +1,46 @@
+#page1 {
+  background: url("http://i.imgur.com/mo5cw00.jpg");
+}
+#page2 {
+  background: url("http://i.imgur.com/9tLGtbj.jpg");
+}
+
+#prof{
+    width: 95%;
+    height: auto;
+    float: left;
+    margin: 20px;
+}
+
+#cointainer{
+    width: 100%;
+    font-size: 12px;
+    overflow: hidden; /* contain floated elements */
+}
+#center {
+    margin-left: 25%;
+    float: left;
+    background-color: #eee;
+    width: 50%;
+    height: auto;
+    font-size: 20px;
+}
+#buttn{
+    width: 200px;
+    background-color: black;
+    color: aqua;
+    font-size: 30px;
+    margin-left: auto;
+}
+.story {
+    margin: 10px; 
+    background-color: #fdffeb;
+}
+
+@media (max-width: 500px) {
+      p {
+        width: 200px;
+      }
+    #buttn {
+        width: auto;
+    }
