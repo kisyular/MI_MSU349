@@ -1,8 +1,8 @@
 #page1 {
-  background: url("http://i.imgur.com/mo5cw00.jpg");
+    background: url("http://i.imgur.com/mo5cw00.jpg");
 }
 #page2 {
-  background: url("http://i.imgur.com/9tLGtbj.jpg");
+    background: url("http://i.imgur.com/l7rZjcR.png");
 }
 
 #prof{
@@ -11,7 +11,10 @@
     float: left;
     margin: 20px;
 }
-
+#headr {
+    display: inline;
+    margin-left: 30%;
+}
 #cointainer{
     width: 100%;
     font-size: 12px;
@@ -26,9 +29,6 @@
     font-size: 20px;
 }
 #buttn{
-    width: 200px;
-    background-color: black;
-    color: aqua;
     font-size: 30px;
     margin-left: auto;
 }
@@ -37,10 +37,19 @@
     background-color: #fdffeb;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1000px) {
       p {
         width: 200px;
       }
     #buttn {
         width: auto;
     }
+    #headr {
+    display: inline;
+    margin-left: 0%;
+}
+}
+.para {
+    font-family: inherit;
+    color: black;
+}
