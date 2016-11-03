@@ -1,0 +1,48 @@
+ABOUT US:
+The mission of the Website.
+The Website will be focused on showing skills from Rellika. The skills to be shown will range from Software Engineering, Web Development, Game Design &
+Development and Graphic Design. The website will also show which web and programming languages (Python, HTML, CSS, Ruby, C++, Java, Javascript, jQuery, etc) Rellika is conversant and fluent with. The platform will also
+showcase latest Rellika's projects; there will be a link to his GitHub account so prospective employer can see his work. At Contacts Us page, users will be
+able to find his contact details such as email and phone number.
+
+PROFILE
+My name is Rellika Kisyula Rellikson, and I am from Kenya. I am a student at Michigan State University (MSU) in Michigan, United States. I am Media and Information major at the College of Communication Arts and Science and minor in Game Design and Development in the same college. I am also planning to minor in Computer Science at College of Engineering and Computational Mathematics Science and Engineering in the same college. I am a recipient of Honors College.
+
+CONTACT INFORMATION:
+PHONE: 517 940 23xx
+EMAIL: kisyular@msu.edu
+
+MY NETWORK
+SCHOOLS:
+MICHIGAN STATE UNIVERSITY
+AFRICAN LEADERSHIP ACADEMY
+ALLIANCE HIGH SCHOOL
+INSTITUTIONS:
+AFRICAN LEADERSHIP UNIVERSITY
+AFRICA CAREERS NETWORK
+MASTERCARD FOUNDATION PROGRAM
+
+
+SKILLS:
+EDUCATIONMichigan State University – East Lansing, Michigan, USA	Sept 2014 - present•	Bachelor’s in Media and Information, Information Technology and Computer Science, Cumulative GPA: 3.47•	Minor in Computation Mathematics Science and Engineering•	The MasterCard Foundation Scholars Program and Honors College RecipientAfrican Leadership Academy (ALA) – Johannesburg, South Africa	2012 - 2014•	Specialized in Leadership, Entrepreneurship, and African Studies curriculum•	Completed Cambridge A-level Exams in Physics, English, Chemistry and MathematicsAlliance High School – Kiambu, Kenya	2009 - 2012•	Completed the Kenya Certificate of Secondary Education (KCSE) Exam with mean grade of A.WORK/EXPERIENCEmSurvey Inc.-Kenya									     June 2016 – Aug 2016API Programmer•	Worked as API to pull data from Keen IO and to make Dashboard for mSurvey•	Assisted with Software DevelopmentMSU Telecaster (SideShow) – East Lansing, Michigan	Oct 2014 - presentVideo Editor, MSU Video Production Clubs and SpartaSoft Game Design•	Acting as video editor for both Turn and SideShow Multimedia Clubs.African Student Union (ASU)	Nov 2014 - present•	Contributed in the production and editing of ASU Gala Night Video•	Performed lead role in the ASU Gala Night Play whereby I was featured in The State News -November 15 2014Equity Group Foundation – Nairobi, Kenya	June – Aug 2014Filmmaker and Graphic Designer•	Worked with Equity Communication Department to produce four documentaries featuring successful young entrepreneurs in Kenya.•	Assisted the Communication Department to upgrade to new Video Editing Software such as Adobe Products.Music Production Department – African Leadership Academy, South Africa	Jan 2013 – May 2014Audio-visual Manager•	Served as the school photographer, DJ, graphical designer and video-editor for all major events in Academy such as Guest Speakers and Inter-House SportsHollard Insurance Company – Johannesburg, South 	June – Aug 2013Financial Data Analyst•	Interned with Hollard Insurance Company Financial Department to collect financial data in Kenya.•	Using Excel, I analyzed the financial data and presented to Hollard Insurance Management Committee.Other Experience•	Interned with Impact 88.9FM (MSU Radio) for a month	 					             Nov 2014•	Designing and making Messenger and SMS automated Chatbot. Designed INFOMCF Bot to help prospective students access MCF Information with ease through Facebook Messenger 	               		               July 2016SKILLS AND INTERESTS •	Confident with video, graphics and image editing software such as Final Cut, Adobe Creative Suite and Maya 3D•	Fluent with Data Analysis and Visualization•	Experience with Drupal and WordPress•	Comfortable with Arduino Programming•	Fluent in Programming language such as Python, C++, C#, Java, Ruby and JavaScript•	Fluent in Front-end Web-Design and 3D Computer Graphics and Animations•	Fluent in English and SwahiliIMPORTANT COURSES
+CSE 231-Programming with Python
+CSE 232-Programming with C++
+MI 349-Front-End Web Development
+MI 347/247-3D Modeling and Animations
+MI 250-Programming with Python and Server-Side Web Applications
+CMSE 201- Data Analysis using Python
+
+LIVE CHAT: INTEGRATION WITH DRUPAL LIVE CHAT
+
+
+SKILLS SUMMARY
+Game Design and Development
+Graphic Design
+Web Design and Development
+Animation and Modeling
+Data Science and Computation Mathematics
+
+CONNECT WITH ME:
+GOOGLE PLUS - https://plus.google.com/u/0/103061721491988201029
+TWITTER - https://twitter.com/rkisyula12
+FACEBOOK - https://www.facebook.com/rellikson.kisyula
