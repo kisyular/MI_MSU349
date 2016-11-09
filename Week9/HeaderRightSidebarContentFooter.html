@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Header Left Sidebar Content Footer</title>
+    <title>Header Right Sidebar Content Footer</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="js/index.js"></script>
@@ -34,13 +34,13 @@
             height: auto;
         }
 
-        #content nav {
+        #content aside {
             margin: 4px;
             padding: 5px;
             border: 1px solid #8888bb;
             border-radius: 7pt;
             flex: 1 6 20%;
-            height: auto;
+            order: 3;
         }
 
         header,
@@ -59,8 +59,10 @@
                 flex-direction: column;
             }
             #content > article,
-            #content > nav,
-            #content nav,
+            #content > aside {
+                order: 0;
+            }
+            #content aside,
             header,
             footer {
                 min-height: 30px;
@@ -77,6 +79,9 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
             </article>
+            <aside>
+                <p>Lnostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </aside>
         </div>
         <footer>
             <p>This is my footer</p>

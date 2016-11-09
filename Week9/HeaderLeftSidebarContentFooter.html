@@ -1,44 +1,90 @@
 <!doctype html>
 <html class="no-js" lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Your Page Title Here</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <!-- External link (relative) to your main stylesheet -->
-        <link rel="stylesheet" href="css/HeaderFullWidthContentFooter.css">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Header Left Sidebar Content Footer</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="js/index.js"></script>
+</head>
 
-        <!-- External link (relative) to your javascript file -->
-        <script src="js/index.js"></script>
-    </head>
-    <body class="basic">
-      <div class="container">
+<body>
+    <style>
+        body {
+            font: 24px Helvetica;
+            background: #fff;
+        }
+
+        #content {
+            min-height: auto;
+            margin: 0px;
+            padding: 0px;
+            display: flex;
+        }
+
+        #content article {
+            margin: 4px;
+            padding: 5px;
+            border: 1px solid #8888bb;
+            border-radius: 7pt;
+            flex: 3 1 60%;
+            order: 2;
+            height: auto;
+        }
+
+        #content nav {
+            margin: 4px;
+            padding: 5px;
+            border: 1px solid #8888bb;
+            border-radius: 7pt;
+            flex: 1 6 20%;
+            height: auto;
+        }
+
+        header,
+        footer {
+            display: block;
+            margin: 4px;
+            padding: 2px;
+            border: 1px solid #eebb55;
+            border-radius: 7pt;
+            background: #3498db
+        }
+
+        @media all and(max-width: 640px) {
+            #content,
+            #page {
+                flex-direction: column;
+            }
+            #content > article,
+            #content > nav,
+            #content nav,
+            header,
+            footer {
+                min-height: 30px;
+                max-height: 50px;
+            }
+        }
+    </style>
+    <div class="container">
         <header>
-          <h3>My Great Site</h3>
-        </header>
-        <div class="content">
-          <section class="half">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </section>
-          <div class="content">
-            <section class="half">
-              <section class="toc">
-                TOC
-              </section>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            </section>
-          </div>
-          <section class="half">
-            <p>Lnostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </section>
+            <h3>This is my Header</h3> </header>
+        <div id='content'>
+            <article>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            </article>
+            <nav>
+                <p>Lnostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </nav>
         </div>
         <footer>
-          <p>This is my footer</p>
+            <p>This is my footer</p>
         </footer>
-      </div>
-    </body>
+    </div>
+</body>
+
 </html>

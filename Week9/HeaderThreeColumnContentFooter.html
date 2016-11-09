@@ -4,71 +4,84 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Your Page Title Here</title>
+    <title>Header Three Column Content Footer</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- External link (relative) to your main stylesheet -->
-    <link rel="stylesheet" href="css/screen.css">
-    <!-- External link (relative) to your javascript file -->
     <script src="js/index.js"></script>
 </head>
 
-<body class="basic">
+<body>
     <style>
-        /* Add your CSS below */
-        /* Example: adding a background color to the HTML body */
-        
         body {
-            /* #ccc is shorthand HEX for a light grey */
+            font: 24px Helvetica;
             background: #fff;
-            margin: 0;
         }
-        
-        h1,
-        p {
-            margin: 0;
-        }
-        /* Fixed width container */
-        /*
-            .container {
-            width: 900px;
-            margin: 0 auto;
-            }
-            */
-        
-        header,
-        footer {
-            background: #3498db;
-        }
-        
-        .content {
+
+        #content {
+            min-height: auto;
+            margin: 0px;
+            padding: 0px;
             display: flex;
         }
-        
-        .content section {
-            padding: 1em;
-            flex: 0 2 1;
+
+        #content article {
+            margin: 4px;
+            padding: 5px;
+            border: 1px solid #8888bb;
+            border-radius: 7pt;
+            flex: 3 1 60%;
+            order: 1;
+            height: auto;
         }
-        
-        .content section:first-of-type {
-            flex: 3 3 0;
+
+        header,
+        footer {
+            display: block;
+            margin: 4px;
+            padding: 2px;
+            border: 1px solid #eebb55;
+            border-radius: 7pt;
+            background: #3498db
+        }
+
+        @media all and(max-width: 640px) {
+            #content,
+            #page {
+                flex-direction: column;
+            }
+            #content > article,
+            #content > nav,
+            #content > aside {
+                order: 0;
+            }
+            #content nav,
+            #content aside,
+            header,
+            footer {
+                min-height: 30px;
+                max-height: 50px;
+            }
         }
     </style>
     <div class="container">
         <header>
-            <h1>My Great Site</h1> </header>
-        <div class="content">
-            <section>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            </section>
-            <section>
+            <h3>This is my Header</h3> </header>
+        <div id='content'>
+            <article>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            </article>
+            <article>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            </section>
-            <section>
-                <p>Lnostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            </section>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            </article>
+            <article>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            </article>
         </div>
         <footer>
             <p>This is my footer</p>
