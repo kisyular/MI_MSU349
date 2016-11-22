@@ -1,0 +1,6 @@
+I chose the first Style1 because it employs much of what my homepage would be like. My site will use 
+Header + Full-width content + Footer. This will allow me to display a lot of the content I am working 
+on for my portfolio
+
+My Comps is also based on my recent iterations of the design principles. I wanted to make the page employ affordance
+principles while at the same time showing aesthetic gui to the users
