@@ -1,0 +1,117 @@
+body {
+    font: 24px Helvetica;
+    background: #fff;
+}
+
+#content {
+    min-height: auto;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+
+#content article {
+    margin: 4px;
+    padding: 5px;
+    border: 1px solid #8888bb;
+    border-radius: 7pt;
+    flex: 3 1 60%;
+    order: 1;
+    height: auto;
+}
+
+header,
+footer {
+    display: block;
+    margin: 4px;
+    padding: 2px;
+    border: 1px solid #eebb55;
+    border-radius: 7pt;
+    background: #3498db
+}
+
+@media all and(max-width: 640px) {
+    #content,
+    #page {
+        flex-direction: column;
+    }
+    #content>article,
+    #content>nav,
+    #content>aside {
+        order: 0;
+    }
+    #content nav,
+    #content aside,
+    header,
+    footer {
+        min-height: 30px;
+        max-height: 50px;
+    }
+}
+
+img {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+h3 {
+    margin: 0 0 10px 0;
+    padding: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #9f1a04;
+}
+
+#templatemo_menu {
+    float: left;
+    width: auto;
+    height: 10%;
+    margin: 0 auto;
+    margin-top: 0;
+}
+
+#templatemo_menu ul {
+    margin: 0px;
+    padding: 13px 40px 0 20px;
+    list-style: none;
+}
+
+#templatemo_menu ul li {
+    padding: 0px 50px 0 0;
+    margin: 0px;
+    display: inline;
+}
+
+#templatemo_menu li a:hover {
+    position: relative;
+    color: yellow;
+    background: url(images/templatemo_menu_hover_right.png) right top no-repeat;
+}
+
+#templatemo_menu ul li a {
+    float: left;
+    display: block;
+    margin: 0 10px;
+    text-align: center;
+    font-size: 14px;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    outline: none;
+}
+
+@media screen and (max-width: 600px) {
+    #templatemo_menu {
+        font-size: 80%;
+    }
+    #templatemo_menu ul li {
+        padding: 0px 0 0 0;
+        margin: 0px;
+        display: inline;
+    }
+    #templatemo_menu ul li a {
+        margin: 0 4px;
+    }
+}

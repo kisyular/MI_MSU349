@@ -1,0 +1,341 @@
+body,
+aside,
+article,
+nav,
+ul,
+li,
+a {
+    margin-right: 0px;
+    padding: 0;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    padding: 0 20% 0 0;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+.nav {
+    list-style: none;
+    *zoom: 1;
+    background: #175e4c;
+    border-radius: 7pt;
+}
+
+.nav:before,
+.nav:after {
+    content: " ";
+    display: table;
+}
+
+.nav:after {
+    clear: both;
+}
+
+.nav ul {
+    list-style: none;
+    width: 9em;
+}
+
+.nav a {
+    padding: 10px 15px;
+    color: #fff;
+}
+
+.nav li {
+    position: relative;
+}
+
+.nav > li {
+    float: left;
+}
+.nav > li > a {
+    display: block;
+}
+
+.nav > li.hover > ul {
+    left: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .active {
+        display: block;
+    }
+    .nav > li {
+        float: inherit;
+    }
+    .nav ul li {
+        display: inline;
+        float: right;
+    }
+    .nav > li > .parent {
+        background-position: 95% 50%;
+    }
+    .nav ul {
+        display: block;
+        width: 100%;
+        float: left;
+    }
+    .nav > li.hover > ul {
+        position: static;
+    }
+    #logo {
+        display: none;
+    }
+}
+
+body {
+    font: 24px Helvetica;
+    background: #fff;
+}
+
+#content {
+    min-height: auto;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+
+#content nav {
+    margin: 4px;
+    padding: 5px;
+    border-radius: 7pt;
+    flex: 1 6 20%;
+    height: auto;
+}
+
+#content aside {
+    margin: 4px;
+    padding: 5px;
+    border-radius: 7pt;
+    flex: 1 6 20%;
+    order: 3;
+}
+
+#content article {
+    background: #f3f3f3;
+    padding: 5px;
+    flex: 3 1 60%;
+    order: 2;
+    height: auto;
+    height: auto;
+    border-radius: 7pt;
+    /*border: 1px solid red; */
+}
+
+header,
+footer {
+    height: auto;
+    display: block;
+    background: white;
+    border-radius: 7pt;
+}
+
+#logo {
+    width: 100%;
+    float: left;
+    margin: 0% 0 0 0%;
+}
+
+@media all and(max-width: 640px) {
+    #content,
+    #page {
+        flex-direction: column;
+    }
+    #content>article,
+    #content>nav,
+    #content nav,
+    header,
+    footer {
+        min-height: 30px;
+        max-height: 50px;
+    }
+}
+
+.profilePic {
+    margin-bottom: 30px;
+    width: 100%;
+    height: auto;
+    float: left;
+    display: block
+}
+
+#picProf {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.homeImage {
+    width: 100%;
+    height: auto;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Istok+Web);
+@keyframes slidy {
+    0% {
+        left: 0%;
+    }
+    20% {
+        left: 0%;
+    }
+    25% {
+        left: -100%;
+    }
+    45% {
+        left: -100%;
+    }
+    50% {
+        left: -200%;
+    }
+    70% {
+        left: -200%;
+    }
+    75% {
+        left: -300%;
+    }
+    95% {
+        left: -300%;
+    }
+    100% {
+        left: -400%;
+    }
+}
+
+body,
+figure {
+    margin: 0;
+    font-family: Istok Web, sans-serif;
+    font-weight: 100;
+}
+
+div#captioned-gallery {
+    width: 100%;
+    overflow: hidden;
+}
+
+figure.slider {
+    position: relative;
+    width: 500%;
+    font-size: 0;
+    animation: 30s slidy infinite;
+}
+
+figure.slider figure {
+    width: 20%;
+    height: auto;
+    display: inline-block;
+    position: inherit;
+}
+
+figure.slider img {
+    width: 100%;
+    height: auto;
+}
+
+figure.slider figure figcaption {
+    position: absolute;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+    color: #fff;
+    width: 100%;
+    font-size: 2rem;
+    padding: .6rem;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: red;
+    /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#2693B3, #FEDFA8);
+    /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#2693B3, #FEDFA8);
+    /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#2693B3, #FEDFA8);
+    /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#2693B3, #FEDFA8);
+    /* Standard syntax */
+}
+
+.cate {
+    font-size: 40px;
+    font-style: oblique;
+    text-decoration: underline;
+    margin: 0px 0 0 30px;
+}
+
+.left,
+.right {
+    border-radius: 5px;
+}
+
+
+.right {
+    float: left;
+    margin-top: 50px;
+    padding-left: 5px;
+    /*margin-right: -10px;
+    margin-left: 14%;*/
+    height: auto;
+    width: 99%;
+    /*background-color: #E3EDD8; */
+}
+
+#footer {
+    height: 40px;
+    clear: both;
+    position: relative;
+    background-color: #C1E3E1;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+#job-responsibilities {
+    padding: 1px;
+}
+
+.job-title {
+    font-weight: bold;
+}
+
+table {
+    border: 1px dashed black;
+}
+
+td {
+    padding: 2px;
+    border: 1px solid #E88741;
+}
+
+#course-name {
+    font-weight: bold;
+}
+
+#company-name {
+    height: 2px;
+    text-decoration: underline;
+}
+
+#job-title {
+    height: 5px;
+}
+
+.job-duration {
+    float: right;
+}
+
+#heading {
+    font-weight: bold;
+}
+
+.biogra {
+    display: block;
+    float: left;
+}

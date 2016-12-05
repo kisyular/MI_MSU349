@@ -1,0 +1,156 @@
+
+
+body {
+    font: 24px Helvetica;
+    background: #fff;
+}
+
+#content {
+    min-height: auto;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+
+#content nav {
+    margin: 4px;
+    padding: 5px;
+    border: 1px solid #8888bb;
+    border-radius: 7pt;
+    flex: 1 6 20%;
+    height: auto;
+}
+
+#content aside {
+    margin: 4px;
+    padding: 5px;
+    border: 1px solid #8888bb;
+    border-radius: 7pt;
+    flex: 1 6 20%;
+    order: 3;
+  }
+
+#content article {
+    padding: 5px;
+    border: 1px solid #8888bb;
+    flex: 3 1 60%;
+    order: 2;
+    height: auto;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#2693B3, #FEDFA8); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#2693B3, #FEDFA8); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#2693B3, #FEDFA8); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#2693B3, #FEDFA8); /* Standard syntax */
+    height: auto;
+    border-radius: 7pt;
+}
+header, footer {
+    height: auto;
+    display: block;
+    border: 1px solid #eebb55;
+    background: white;
+}
+}
+#logo{
+  width: 10px;
+  float: left;
+}
+
+@media all and(max-width: 640px) {
+    #content, #page {
+        flex-direction: column;
+    }
+    #content>article, #content>nav, #content nav, header, footer {
+        min-height: 30px;
+        max-height: 50px;
+    }
+}
+/* Basic Styles */
+ ul {
+	padding: 0;
+	margin: 0 auto;
+	width: auto;
+	height: auto;
+}
+li {
+	display: inline;
+	float: left;
+
+}
+#container a {
+	color: black;
+	display: inline-block;
+	width: 100px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 40px;
+	text-shadow: 1px 1px 0px #283744;
+
+}
+nav li a {
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+  border-bottom: 1px solid #576979;
+  border-left: 1px solid #576979;
+  border-right: 1px solid #576979;
+  background: blue;
+}
+nav li:last-child a {
+	border-right: 0;
+}
+nav a:hover, nav a:active {
+	background-color: #8c99a4;
+}
+nav a#pull {
+	display: none;
+}
+
+/*Styles for screen 600px and lower*/
+@media screen and (max-width: 700px) {
+	nav {
+  		height: auto;
+  	}
+  	nav ul {
+  		width: 100%;
+  		display: block;
+  		height: auto;
+  	}
+  	nav li {
+  		width: 50%;
+  		float: left;
+  		position: relative;
+  	}
+  	nav li a {
+		border-bottom: 1px solid #576979;
+		border-left: 1px solid #576979;
+    border-right: 1px solid #576979;
+    background: blue;
+	}
+  	nav a {
+	  	text-align: left;
+	  	width: 100%;
+	  	text-indent: 25px;
+  	}
+}
+
+/*Smartphone*/
+@media only screen and (max-width : 320px) {
+  nav ul {
+    width: 100%;
+    display: block;
+    height: auto;
+  }
+  nav {
+      height: auto;
+      width: 100%;
+    }
+    nav li {
+  		width: 50%;
+  		float: right;
+  		position: relative;
+    }
+	nav li a {
+		border-bottom: 1px solid #576979;
+	}
+}
