@@ -1,12 +1,77 @@
-<div id="result"></div>
-<script>
-// Check browser support
-if (typeof(Storage) !== "undefined") {
-    // Store
-    localStorage.setItem("lastname", "Smith");
-    // Retrieve
-    document.getElementById("result").innerHTML = localStorage.getItem("lastname");
-} else {
-    document.getElementById("result").innerHTML = "Sorry, your browser does not support Web Storage...";
-}
-</script
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>PROFILE</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="js/index.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/contact.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+</head>
+<body id="top">
+    <div class="tswcontainer">
+        <ul class="nav">
+            <li> <a class="navLink" href="home.html">Home</a> </li>
+            <li> <a class="navLink" href="portfolio.html">Portfolio</a> </li>
+            <li> <a class="navLink" href="profile.html">Profile</a></li>
+            <li> <a class="navLink" href="contact.html">Contact Us</a> </li>
+        </ul>
+        <div class="container">
+            <div id='content'>
+                <article>
+                    <div id='content'>
+                        <article>
+                            <h1>Send Me A Message</h1>
+                            <div class="contact">
+                                <form method="post" enctype="multipart/form-data" action="#" id="image-form">
+                                    <div class="three_col">
+                                        <select>
+                                  			  <option value="title">Title</option>
+                                  			  <option value="mr">MR</option>
+                                  			  <option value="mrs">MRS</option>
+                                  			  <option value="ms">MS</option>
+                                  			  <option value="dr">DR</option>
+                                  			</select>
+                                        <input type="text" name="fname" placeholder="First Name" class="default" msg="Error for First name">
+                                        <span class="error"></span>
+                                        <input type="text" name="lname" placeholder="Last Name" class="default" msg="Error for Last name">
+                                        <span class="error"></span>
+                                    </div>
+                                    <div class="one_col email">
+                                        <input type="text" name="email" placeholder="Email Address" class="default" msg="Please enter a valid email">
+                                        <span class="error"></span>
+                                    </div>
+                                    <div class="one_col">
+                                        <input type="text" name="website" placeholder="Website" class="default" msg="Error for website">
+                                        <span class="error"></span>
+                                    </div>
+                                    <div class="one_col">
+                                        <textarea rows="4" cols="20" placeholder="Message"></textarea>
+                                        <span class="error"></span>
+                                    </div>
+                                    <div class="one_col">
+                                        <input id="submit" type="submit" value="Submit" />
+                                    </div>
+                                    <span class="clear"></span>
+                                </form>
+                            </div>
+                            <script src='jquery.js'></script>
+                            <script src="js/index.js"></script>
+                        </article>
+                    </div>
+            </div>
+        </div>
+        </article>
+    </div>
+    </div>
+    </div>
+    <footer style="height: 100px">
+    </footer>
+</body>
+
+</html>

@@ -4,95 +4,134 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Header Grid</title>
+    <title>PROFILE</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="css/portfolio.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
     <script src="js/index.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
 </head>
 
-<body>
-    <div class="container">
+<body id="top">
+    <div class="tswcontainer">
         <ul class="nav">
-            <li> <a href="home.html">Home</a> </li>
-            <li> <a href="portfolio.html">Portfolio</a> </li>
-            <li><a href="profile.html">Profile</a></li>
-            <li> <a href="contact.html">Contact Us</a> </li>
+            <li> <a class="navLink" href="home.html">Home</a> </li>
+            <li> <a class="navLink" href="portfolio.html">Portfolio</a> </li>
+            <li> <a class="navLink" href="profile.html">Profile</a></li>
+            <li> <a class="navLink" href="contact.html">Contact Us</a> </li>
         </ul>
-        <div id='content'>
-            <article>
-                <div class="product_box margin_r_10">
-                    <a href="explanationPortfolio.html"><img class="projIm" src="images/templatemo_image_01.jpg" alt="image" /></a>
-                    <h3>Project One</h3>
-                    <p>Etiam molestie massa nec nulla sagittis et luctus nulla ullamcorper a porttitor est. <a href="explanationPortfolio.html">More...</a></p>
-                </div>
-            </article>
-            <article>
-                <div class="product_box margin_r_10">
-                    <a href="explanationPortfolio.html"><img class="projIm" src="images/templatemo_image_02.jpg" alt="image" /></a>
-                    <h3>Project Two</h3>
-                    <p>Aenean aliquam ullamcorper metus, at cursus elit sodales dignissim. <a href="explanationPortfolio.html">More...</a></p>
-                </div>
-            </article>
-            <article>
-                <div class="product_box margin_r_10">
-                    <a href="explanationPortfolio.html"><img class="projIm" src="images/templatemo_image_03.jpg" alt="image" /></a>
-                    <h3>Project Three</h3>
-                    <p>Nam sed volutpat ipsum. Phasellus pharetra pellentesque leo ac posuere. <a href="explanationPortfolio.html">More...</a></p>
-                </div>
-            </article>
+        <style>
+        .rImage {
+          width: 100%;
+        }
+        .sorroundBorder {
+          border: 1px solid grey;
+          border-radius: 7pt;
+        }
+        .description {
+          margin-top: -20px;
+        }
+        </style>
+        <div class="container">
+            <div id='content'>
+                <article>
+                    <div id='content'>
+                        <article class="sorroundBorder">
+                          <!-- These what you change -->
+                            <div>
+                              <img class="rImage" src="images/PDF/MackinawIsland.png" alt="image" />
+                              <a href="images/PDF/MackinawIsland.pdf" target="_blank"><h3 class="description">View PDF</h3></a>
+                              <p class="description">Etiam molestie massa nec nulla sagittis et luctus nulla ullamcorper a porttitor est </p>
+                            </div>
+                          <!-- To here-->
+                        </article>
+                        <article class="sorroundBorder">
+                            <div>
+                              <img class="rImage" src="images/PDF/mapFlorida.png" alt="image" />
+                              <a href="images/PDF/mapFlorida.pdf" target="_blank"><h3 class="description">View PDF</h3></a>
+                              <p class="description">Etiam molestie massa nec nulla sagittis et luctus nulla ullamcorper a porttitor est </p>
+                            </div>
+                        </article>
+
+                        <article class="sorroundBorder">
+                            <div>
+                              <img class="rImage" src="images/PDF/mapMichigan.png" alt="image" />
+                              <a href="images/PDF/mapMichigan.pdf" target="_blank"><h3 class="description">View PDF</h3></a>
+                              <p class="description">Etiam molestie massa nec nulla sagittis et luctus nulla ullamcorper a porttitor est </p>
+                            </div>
+                        </article>
+                    </div>
+
+                    <div id='content'>
+                        <article class="sorroundBorder">
+                            <div>
+                              <img class="rImage" src="images/PDF/RellikaBiopdf.png" alt="image" />
+                              <a href="images/PDF/RellikaBiopdf.pdf" target="_blank"><h3 class="description">View PDF</h3></a>
+                              <p class="description">Etiam molestie massa nec nulla sagittis et luctus nulla ullamcorper a porttitor est </p>
+                            </div>
+                        </article>
+                        <article class="sorroundBorder">
+                            <div>
+                              <img class="rImage" src="images/PDF/RellikaMixedChart.png" alt="image" />
+                              <a href="images/PDF/RellikaMixedChart.pdf" target="_blank"><h3 class="description">View PDF</h3></a>
+                              <p class="description">Etiam molestie massa nec nulla sagittis et luctus nulla ullamcorper a porttitor est </p>
+                            </div>
+                        </article>
+
+                        <article class="sorroundBorder">
+                            <div>
+                              <img class="rImage" src="images/PDF/RellikaStage.png" alt="image" />
+                              <a href="images/PDF/RellikaStage.pdf" target="_blank"><h3 class="description">View PDF</h3></a>
+                              <p class="description">Etiam molestie massa nec nulla sagittis et luctus nulla ullamcorper a porttitor est </p>
+                            </div>
+                        </article>
+                    </div>
+
+                    <div class="container">
+                        <div id='content'>
+                          <div id='content'>
+                            <article>
+                              <h1 style="margin-left: 40%">Social Media</h1>
+                              <div class="entry-social">
+                                  <div class="fb">
+                                      <a href="https://www.facebook.com/rellikson.kisyula" target="_blank">Facebook</a>
+                                  </div>
+                                  <div class="twitter">
+                                      <a href="https://twitter.com/rkisyula12" target="_blank">Twitter</a>
+                                  </div>
+                                  <div class="gplus">
+                                      <a href="https://plus.google.com/u/0/103061721491988201029" target="_blank">Google+</a>
+                                  </div>
+                                  <div class="linkedin">
+                                      <a href="https://www.linkedin.com/in/rellika-kisyula" target="_blank">Linkedin</a>
+                                  </div>
+                                  <div class="pinterest">
+                                      <a href="https://www.pinterest.com/kisyula/" target="_blank">Pinterest</a>
+                                  </div>
+                                  <div class="github">
+                                    <i class="fa fa-github" aria-hidden="true"></i>
+                                      <a href="https://github.com/kisyular" target="_blank">GitHub</a>
+                                  </div>
+                              </div>
+                                </article>
+                          </div>
+                    </div>
+                  </div>
+
+                </article>
+                <script>
+                function myFunction() {
+                  window.open("http://www.w3schools.com");
+                }
+                </script>
+                <nav> </nav>
+                <aside></aside>
+            </div>
         </div>
-        <div id='content'>
-            <article>
-                <div class="product_box">
-                    <a href="explanationPortfolio.html"><img class="projIm" src="images/templatemo_image_04.jpg" alt="image" /></a>
-                    <h3>Project Four</h3>
-                    <p>Proin rutrum neque vitae nisi venenatis blandit in ac dui. Curabitur ultricies semper. <a href="explanationPortfolio.html">More...</a></p>
-                </div>
-            </article>
-            <article>
-                <div class="product_box margin_r_10">
-                    <a href="explanationPortfolio.html"> <img class="projIm" src="images/templatemo_image_05.jpg" alt="image" /> </a>
-                    <h3>Project Five</h3>
-                    <p>Mauris dignissim vehicula sapien, in accumsan quam commodo venenatis. <a href="explanationPortfolio.html">More...</a> </p>
-                </div>
-            </article>
-            <article>
-                <div class="product_box margin_r_10">
-                    <a href="explanationPortfolio.html"> <img class="projIm" src="images/templatemo_image_06.jpg" alt="image" /> </a>
-                    <h3>Project Six</h3>
-                    <p>Morbi ultrices congue nunc sit amet rutrum. Ut pretium diam eu diam volutpat laoreet. <a href="explanationPortfolio.html">More...</a></p>
-                </div>
-            </article>
-        </div>
-        <div id='content'>
-            <article>
-                <div class="product_box margin_r_10">
-                    <a href="explanationPortfolio.html"><img class="projIm" src="images/templatemo_image_07.jpg" alt="image" /></a>
-                    <h3>Project Seven</h3>
-                    <p>Duis facilisis ante sit amet libero sodales cursus vehicula urna euismod ultricies. <a href="explanationPortfolio.html">More...</a></p>
-                </div>
-            </article>
-            <article>
-                <div class="product_box">
-                    <a href="explanationPortfolio.html"><img class="projIm" src="images/templatemo_image_08.jpg" alt="image" /></a>
-                    <h3>Project Eight</h3>
-                    <p>Proin vitae felis in urna laoreet suscipit. Integer consequat felis in justo sagittis. <a href="explanationPortfolio.html">More...</a></p>
-                </div>
-            </article>
-            <article>
-                <div class="product_box">
-                    <a href="explanationPortfolio.html"><img class="projIm" src="images/templatemo_image_08.jpg" alt="image" /></a>
-                    <h3>Project Nine</h3>
-                    <p>Proin vitae felis in urna laoreet suscipit. Integer consequat felis in justo sagittis. <a href="explanationPortfolio.html">More...</a></p>
-                </div>
-            </article>
-        </div>
-        <footer>
-            <p>This is my footer</p>
-        </footer>
     </div>
+    <footer style="height: 100px">
+    </footer>
 </body>
 
 </html>

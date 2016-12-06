@@ -20,8 +20,7 @@ body {
     height: auto;
 }
 
-header,
-footer {
+header, footer {
     display: block;
     margin: 4px;
     padding: 2px;
@@ -31,19 +30,13 @@ footer {
 }
 
 @media all and(max-width: 640px) {
-    #content,
-    #page {
+    #content, #page {
         flex-direction: column;
     }
-    #content>article,
-    #content>nav,
-    #content>aside {
+    #content>article, #content>nav, #content>aside {
         order: 0;
     }
-    #content nav,
-    #content aside,
-    header,
-    footer {
+    #content nav, #content aside, header, footer {
         min-height: 30px;
         max-height: 50px;
     }
@@ -64,54 +57,90 @@ h3 {
     color: #9f1a04;
 }
 
-#templatemo_menu {
-    float: left;
-    width: auto;
-    height: 10%;
-    margin: 0 auto;
-    margin-top: 0;
-}
-
-#templatemo_menu ul {
-    margin: 0px;
-    padding: 13px 40px 0 20px;
-    list-style: none;
-}
-
-#templatemo_menu ul li {
-    padding: 0px 50px 0 0;
-    margin: 0px;
-    display: inline;
-}
-
-#templatemo_menu li a:hover {
-    position: relative;
-    color: yellow;
-    background: url(images/templatemo_menu_hover_right.png) right top no-repeat;
-}
-
-#templatemo_menu ul li a {
-    float: left;
+.entry-social {
+    margin-bottom: 20px;
+    color: rgb(126, 126, 126);
     display: block;
-    margin: 0 10px;
-    text-align: center;
+    font-family: 'Open Sans', Tahoma, Verdana, Arial, sans-serif, Faruma, Faseyha;
     font-size: 14px;
-    text-decoration: none;
-    color: #ffffff;
-    font-weight: bold;
-    outline: none;
+    font-weight: normal;
+    height: auto;
+    line-height: 23.799999237060547px;
+    margin-bottom: 20px;
+    width: 100%;
+    width: 100%;
+    float: left;
+    border: solid 0px #aaa;
+    text-align: center;
 }
 
-@media screen and (max-width: 600px) {
-    #templatemo_menu {
-        font-size: 80%;
-    }
-    #templatemo_menu ul li {
-        padding: 0px 0 0 0;
-        margin: 0px;
-        display: inline;
-    }
-    #templatemo_menu ul li a {
-        margin: 0 4px;
-    }
+.entry-social div {
+    display: block;
+    width: 138px;
+    margin: 2px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.entry-social a {
+    text-decoration: none;
+    display: block;
+    padding-left: 20px;
+    color: #FFFFFF !important;
+    font-weight: bold;
+    transition: background-color .3s;
+}
+
+.entry-social .fb a {
+    padding: 7px 5px 7px 20px;
+    background: #3B5999 url('http://3.bp.blogspot.com/-yqD2363XuAo/UeDk98twSlI/AAAAAAAAArg/kXIzFBWmczM/s1600/fb14.png') no-repeat 10px center;
+}
+
+.entry-social .twitter a {
+    padding: 7px 10px 7px 32px;
+    background: #01BBF6 url('http://3.bp.blogspot.com/-0u8P4VQmEeU/UeDlVdilwcI/AAAAAAAAAro/lGTnlvHGyVw/s1600/twitter14.png') no-repeat 8px center;
+}
+
+.entry-social .gplus a {
+    padding: 7px 10px 7px 32px;
+    background: #D54135 url('http://3.bp.blogspot.com/-A8fFRexz_zk/UeDlgadvpiI/AAAAAAAAArw/TRd7NWNwo9s/s1600/gplus14.png') no-repeat 10px center;
+}
+
+.entry-social .linkedin a {
+    padding: 7px 10px 7px 32px;
+    background: #136F9B url('http://4.bp.blogspot.com/-yuEMxhpIXPc/UeDltjBGR1I/AAAAAAAAAr4/kgidavlGbY8/s1600/linkedin14.png') no-repeat 10px center;
+}
+
+.entry-social .pinterest a {
+    padding: 7px 10px 7px 22px;
+    background: #CB2027 url('http://1.bp.blogspot.com/-v-ZkEQhYpug/UeDl6uIio-I/AAAAAAAAAsA/9rqq2cXT08k/s320/pinterest14.png') no-repeat 5px center;
+}
+
+.entry-social .github a {
+    padding: 7px 10px 7px 22px;
+    background: black url('http://www.socialtalent.co/wp-content/uploads/2016/08/github-bb449e0ffbacbcb7f9c703db85b1cf0b.png') no-repeat 10px center;
+}
+
+.entry-social .fb a:hover {
+    background-color: rgb(50, 75, 129);
+}
+
+.entry-social .twitter a:hover {
+    background-color: rgb(1, 159, 211);
+}
+
+.entry-social .gplus a:hover {
+    background-color: rgb(191, 52, 40);
+}
+
+.entry-social .linkedin a:hover {
+    background-color: rgb(15, 89, 125);
+}
+
+.entry-social .pinterest a:hover {
+    background-color: rgb(174, 28, 35);
+}
+
+.entry-social .github a:hover {
+    background-color: rgb(38, 90, 168);
 }
